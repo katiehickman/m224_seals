@@ -8,6 +8,12 @@ Our idea is a random password generator that will help students like us find sec
 • _Customize_ the password by selecting the features your password needs
 
     • examples: special characters, capital letters, numbers, and length
+    
+### Table of Contents
+• About Us
+• Mini Lab
+• Home Page
+• Greet Tab
 
 
 ### Visual Wireframe Ideas

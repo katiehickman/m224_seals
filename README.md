@@ -15,7 +15,7 @@ Main Screen/Homepage:
 ![image](https://user-images.githubusercontent.com/89224064/132061464-84dd5878-8761-4ea8-95c6-61528be652ae.png)
 
 About Us Page:
-![img_9.png](images/img_9.png)
+![image](https://user-images.githubusercontent.com/89224064/132061780-22b98ccb-2928-4441-b832-c7502baca07c.png)
 
 Mini Lab Page:
-![img_7.png](images/img_7.png)
+![image](https://user-images.githubusercontent.com/89224064/132061759-2a4fc964-7124-4bc2-ab3f-386363aa0e42.png)

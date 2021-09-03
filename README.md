@@ -10,7 +10,7 @@ Our idea is a random password generator that will help students like us find sec
     • examples: special characters, capital letters, numbers, and length
 
 
-###Visual Wireframe Ideas
+### Visual Wireframe Ideas
 Main Screen/Homepage:
 ![img_3.png](images/img_3.png)
 

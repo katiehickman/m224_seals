@@ -12,7 +12,7 @@ Our idea is a random password generator that will help students like us find sec
 
 ### Visual Wireframe Ideas
 Main Screen/Homepage:
-![img_3.png](images/img_3.png)
+![image](https://user-images.githubusercontent.com/89224064/132061464-84dd5878-8761-4ea8-95c6-61528be652ae.png)
 
 About Us Page:
 ![img_9.png](images/img_9.png)

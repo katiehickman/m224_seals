@@ -11,14 +11,20 @@ Our idea is a random password generator that will help students like us find sec
     
 ### Table of Contents
 • About Us
+
 • Mini Lab
+
 • Home Page
+
 • Greet Tab
 
 ### Scores
 Katie Hickman: 8/8
+
 Shreya Ahuja: 8/8
+
 Derek Bokelman: 8/8
+
 Kian Pasokhi: 8/8
 
 

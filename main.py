@@ -42,15 +42,15 @@ def greetkatie():
     # starting and empty input default
     return render_template("greetkatie.html", name="Katie")
 
-@app.route('/greet', methods=['GET', 'POST'])
-def greet():
+@app.route('/greetshreya', methods=['GET', 'POST'])
+def greetshreya():
     # submit button has been pushed
     if request.form:
         name = request.form.get("name")
         if len(name) != 0:  # input field has content
-            return render_template("greet.html", name=name)
+            return render_template("greetshreya.html", name=name)
     # starting and empty input default
-    return render_template("greet.html", name="Shreya")
+    return render_template("greetshreya.html", name="Shreya")
 
 @app.route('/greetderek', methods=['GET', 'POST'])
 def greetderek():

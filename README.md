@@ -3,9 +3,6 @@
 
 ## Week Two 
 
-## Week Three
-
-##Week Two 
 ### Idea
 Our idea is a random password generator that will help students like us find secure passwords. Our website will have multiple features that will allow the user You can click on the requirement boxes to slightly customize the password depending on what you need for the website's qualifications.
 ### Features of Random Password Generator Project

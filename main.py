@@ -35,6 +35,10 @@ def aboutus():
 def minilab():
     return render_template("minilab.html")
 
+@app.route('/binary/')
+def binary():
+    return render_template("binary.html")
+
 @app.route('/greetkatie', methods=['GET', 'POST'])
 def greetkatie():
     # submit button has been pushed

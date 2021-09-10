@@ -22,9 +22,11 @@ Derek,  DerekBokelman, tasks, scrum board, commits, profile
     <th>Derek Bokelman</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>GitHub Username</td>
+    <td>Tasks</td>
+    <td>Scrumboard</td>
+    <td>Commits</td>
+    <td>Profile</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>

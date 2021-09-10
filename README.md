@@ -14,6 +14,11 @@ Kian,  kiannp44, tasks, scrum board, commits, profile
 
 Derek,  DerekBokelman, tasks, scrum board, commits, profile
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 ## Week Two 
 
 ### Idea

@@ -1,11 +1,17 @@
 ## [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## Week Three
 Seals, Scrum Board, Katie Hickman, Shreya Ahuja, Derek Bokelman, Kian Pasokhi
-Katie and Shreya's Journal:
+
+Katie and Shreya's Journal: 
+
 Derek and Kian's Journal:
+
 Katie, katiehickman, tasks, scrum board, commits, profile
+
 Shreya,  shreya-ahujaa, tasks, scrum board, commits, profile
+
 Kian,  kiannp44, tasks, scrum board, commits, profile
+
 Derek,  DerekBokelman, tasks, scrum board, commits, profile
 
 ## Week Two 

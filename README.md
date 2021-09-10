@@ -2,18 +2,6 @@
 ## Week Three
 ## M224 - Seals
 
-<a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> 
-
-<a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Derek's Pair Share Journal<a>
-
-Katie, katiehickman, tasks, scrum board, commits, profile
-
-Shreya,  shreya-ahujaa, tasks, scrum board, commits, profile
-
-Kian,  kiannp44, tasks, scrum board, commits, profile
-
-Derek,  DerekBokelman, tasks, scrum board, commits, profile
-
 <table>
   <tr>
     <th> </th>
@@ -56,6 +44,13 @@ Derek,  DerekBokelman, tasks, scrum board, commits, profile
     <td><a href=https://github.com/kiannp44>Kian's Profile</a></td>
     <td><a href=https://github.com/DerekBokelman>Derek's Profile</a></td>
   </tr>
+    <tr>
+    <td>Pair Share Journals</td>
+    <td><a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
+   <tr>
 </table>
 
 ## Week Two 

@@ -14,10 +14,13 @@ Kian,  kiannp44, tasks, scrum board, commits, profile
 
 Derek,  DerekBokelman, tasks, scrum board, commits, profile
 
-| Syntax | Description |
+| Katie | Shreya | Kian | Derek |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Github Username | Title |
+| Tasks | Text |
+| Scrum Board |
+| Commits |
+| Profile |
 
 ## Week Two 
 

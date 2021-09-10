@@ -14,13 +14,23 @@ Kian,  kiannp44, tasks, scrum board, commits, profile
 
 Derek,  DerekBokelman, tasks, scrum board, commits, profile
 
-| Katie | Shreya | Kian | Derek |
-| ----------- | ----------- |
-| Github Username | Title |
-| Tasks | Text |
-| Scrum Board |
-| Commits |
-| Profile |
+<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 ## Week Two 
 

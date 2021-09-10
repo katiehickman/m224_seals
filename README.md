@@ -21,7 +21,7 @@
     <td>Tasks</td>
     <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/katiehickman>Katie's Tasks</a></td>
     <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/shreya-ahujaa>Shreya's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/kiannp44>Kian's Tasks Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/kiannp44>Kian's Tasks</a></td>
     <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/DerekBokelman>Derek's Tasks</a></td>
    <tr>
     <td>Commits</td>

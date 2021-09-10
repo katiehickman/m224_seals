@@ -24,6 +24,10 @@ Derek,  DerekBokelman, tasks, scrum board, commits, profile
   </tr>
   <tr>
     <td>GitHub Username</td>
+    <td>katiehickman</td>
+    <td>shreya-ahujaa</td>
+    <td>kiannp44</td>
+    <td>DerekBokelman</td>
   </tr>
   <tr>
     <td>Tasks</td>

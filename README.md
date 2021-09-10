@@ -24,15 +24,18 @@ Derek,  DerekBokelman, tasks, scrum board, commits, profile
   </tr>
   <tr>
     <td>GitHub Username</td>
-    <td>Tasks</td>
-    <td>Scrumboard</td>
-    <td>Commits</td>
-    <td>Profile</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>Tasks</td>
+  </tr>
+   <tr>
+    <td>Commits</td>
+  </tr>
+   <tr>
+    <td>Scrum Board</td>
+  </tr>
+   <tr>
+    <td>Profile</td>
   </tr>
 </table>
 

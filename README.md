@@ -16,9 +16,10 @@ Derek,  DerekBokelman, tasks, scrum board, commits, profile
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Katie Hickman</th>
+    <th>Shreya Ahuja</th>
+    <th>Kian Pasokhi</th>
+    <th>Derek Bokelman</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>

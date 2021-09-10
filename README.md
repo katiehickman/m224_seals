@@ -4,9 +4,9 @@ Seals, Scrum Board, Katie Hickman, Shreya Ahuja, Derek Bokelman, Kian Pasokhi
 Katie and Shreya's Journal:
 Derek and Kian's Journal:
 Katie, katiehickman, tasks, scrum board, commits, profile
-Shreya,  GitHub ID, tasks, scrum board, commits, profile
-Kian,  GitHub ID, tasks, scrum board, commits, profile
-Derek,  GitHub ID, tasks, scrum board, commits, profile
+Shreya,  shreya-ahujaa, tasks, scrum board, commits, profile
+Kian,  kiannp44, tasks, scrum board, commits, profile
+Derek,  DerekBokelman, tasks, scrum board, commits, profile
 
 ## Week Two 
 

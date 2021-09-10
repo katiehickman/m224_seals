@@ -1,10 +1,10 @@
 ## [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## Week Three
-Seals, Scrum Board, Katie Hickman, Shreya Ahuja, Derek Bokelman, Kian Pasokhi
+## M224 - Seals
 
 <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> 
 
-Derek and Kian's Journal:
+<a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Derek's Pair Share Journal<a>
 
 Katie, katiehickman, tasks, scrum board, commits, profile
 
@@ -31,15 +31,30 @@ Derek,  DerekBokelman, tasks, scrum board, commits, profile
   </tr>
   <tr>
     <td>Tasks</td>
-  </tr>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/katiehickman>Katie's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/shreya-ahujaa>Shreya's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/kiannp44>Kian's Tasks Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/DerekBokelman>Derek's Tasks</a></td>
    <tr>
     <td>Commits</td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman>Katie's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa>Shreya's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=kiannp44>Kian's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=DerekBokelman>Derek's Commits</a></td>
   </tr>
    <tr>
     <td>Scrum Board</td>
+     <td><a href= https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akatiehickman>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Ashreya-ahujaa>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akiannp44>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Aderekbokelman>Scrum Board</a> </td>
   </tr>
    <tr>
     <td>Profile</td>
+    <td><a href= https://github.com/katiehickman>Katie's Profile</a></td>
+    <td><a href=https://github.com/shreya-ahujaa>Shreya's Profile</a></td>
+    <td><a href=https://github.com/kiannp44>Kian's Profile</a></td>
+    <td><a href=https://github.com/DerekBokelman>Derek's Profile</a></td>
   </tr>
 </table>
 

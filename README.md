@@ -2,7 +2,7 @@
 ## Week Three
 Seals, Scrum Board, Katie Hickman, Shreya Ahuja, Derek Bokelman, Kian Pasokhi
 
-Katie and Shreya's Journal: 
+<a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> 
 
 Derek and Kian's Journal:
 

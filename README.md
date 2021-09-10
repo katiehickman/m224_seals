@@ -2,6 +2,11 @@
 ## Week Three
 ## M224 - Seals
 
+  <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
+  <br>
+  <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributers Tab</a></td>
+  <br>
+  <br>
 <table>
   <tr>
     <th> </th>

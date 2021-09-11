@@ -1,8 +1,13 @@
-## [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
+
+# [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## Week Three (Sprint 3,4)
 ## M224 - Seals
 
-# Website Video Highlights
+### Website Video Highlights
+
+https://user-images.githubusercontent.com/89224064/132936398-239cc843-fa9f-4cb7-b1df-218e90517dfe.mp4
+
+
 
   <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
   <br>

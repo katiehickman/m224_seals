@@ -7,8 +7,9 @@
 
 https://user-images.githubusercontent.com/89224064/132936398-239cc843-fa9f-4cb7-b1df-218e90517dfe.mp4
 
-Website Design Updates:
-<a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a>
+Website Design Update Issues:
+<br>
+<a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
 <a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
 
 

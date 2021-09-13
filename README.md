@@ -113,11 +113,20 @@ Mini Lab Page:
 This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
 
 ### Scores
-Katie Hickman: 8/8
+Katie Hickman: 5/5
+Katie and Shreya both completed the tasks that they were assigned which was developing the website. Also had great communication.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
+https://github.com/katiehickman/flask_portfolio/issues/26
 
-Shreya Ahuja: 8/8
+Shreya Ahuja: 5/5
+Katie and Shreya both completed the tasks that they were assigned which was developing the website. Really helped the team move along and work effectivly whenever we were struggiling.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
+https://github.com/katiehickman/flask_portfolio/issues/26
 
-Derek Bokelman: 8/8
+Derek Bokelman: 5/5
+Helped organize everything and come up with solutions for issues.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/23
 
-Kian Pasokhi: 8/8
-
+Kian Pasokhi: 5/5
+Created the second theme and did all other nescaserry tasks.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/25

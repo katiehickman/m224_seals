@@ -13,7 +13,9 @@ Website Design Updates:
 
 
 
-  <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
+<iframe src="https://drive.google.com/file/d/1QlIGi9SsSNgouiY67NPJqL4Rw0DsxjzW/preview" width="320" height="240"></iframe>
+
+<td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
   <br>
   <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
   <br>
@@ -108,6 +110,7 @@ About Us Page:
 
 Mini Lab Page:
 ![image](https://user-images.githubusercontent.com/89224064/132061759-2a4fc964-7124-4bc2-ab3f-386363aa0e42.png)
+
 
 
 

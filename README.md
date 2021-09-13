@@ -7,6 +7,27 @@
 
 https://user-images.githubusercontent.com/89224064/132936398-239cc843-fa9f-4cb7-b1df-218e90517dfe.mp4
 
+This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
+
+### Scores
+Katie Hickman: 5/5
+Katie and Shreya both completed the tasks that they were assigned which was developing the website. Also had great communication.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
+https://github.com/katiehickman/flask_portfolio/issues/26
+
+Shreya Ahuja: 5/5
+Katie and Shreya both completed the tasks that they were assigned which was developing the website. Really helped the team move along and work effectivly whenever we were struggling.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
+https://github.com/katiehickman/flask_portfolio/issues/26
+
+Derek Bokelman: 5/5
+Helped organize everything and come up with solutions for issues.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/23
+
+Kian Pasokhi: 5/5
+Created the second theme and did all other nescaserry tasks.
+Tangibles: https://github.com/katiehickman/flask_portfolio/issues/25
+
 Website Design Update Issues:
 <br>
 <a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
@@ -111,27 +132,3 @@ Mini Lab Page:
 ![image](https://user-images.githubusercontent.com/89224064/132061759-2a4fc964-7124-4bc2-ab3f-386363aa0e42.png)
 
 
-
-## Week Three
-
-### What we completed this week
-This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
-
-### Scores
-Katie Hickman: 5/5
-Katie and Shreya both completed the tasks that they were assigned which was developing the website. Also had great communication.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
-https://github.com/katiehickman/flask_portfolio/issues/26
-
-Shreya Ahuja: 5/5
-Katie and Shreya both completed the tasks that they were assigned which was developing the website. Really helped the team move along and work effectivly whenever we were struggiling.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
-https://github.com/katiehickman/flask_portfolio/issues/26
-
-Derek Bokelman: 5/5
-Helped organize everything and come up with solutions for issues.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/23
-
-Kian Pasokhi: 5/5
-Created the second theme and did all other nescaserry tasks.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/25

@@ -1,6 +1,6 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
-## Week Three (Sprint 3,4)
+## Week Three (Sprint 3,4) Due 9/13
 ## M224 - Seals
 
 ### Website Video Highlights
@@ -12,29 +12,29 @@ This week we spent a lot of time working on the website and trying to get certai
 ### Scores
 **_Katie Hickman_**: 5/5
 <br>
-Katie and Shreya both completed the tasks that they were assigned which was developing the website. Also had great communication.
+Katie and Shreya both completed the tasks that they were assigned, which was developing the website. Also had great communication.
 <br>
-_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/24
-https://github.com/katiehickman/flask_portfolio/issues/26
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
+<a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
 
 _**Shreya Ahuja:**_ 5/5
 <br>
-Katie and Shreya both completed the tasks that they were assigned which was developing the website. Really helped the team move along and work effectivly whenever we were struggling.
+Katie and Shreya both completed the tasks that they were assigned, which was developing the website. Really helped the team move along and work effectivly whenever we were struggling.
 <br>
-_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/24
-https://github.com/katiehickman/flask_portfolio/issues/26
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
+<a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
 
 **_Derek Bokelman_**: 5/5
 <br>
 Helped organize everything and come up with solutions for issues.
 <br>
-_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/23
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23">Scrum Master/Tester</a>
 
 **_Kian Pasokhi_**: 5/5
 <br>
-Created the second theme and did all other nescaserry tasks.
+Created the second theme and did all other necessary tasks.
 <br>
-_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/25
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23">Experimenting with two themes</a>
 
 **_Website Design Update Issues:_**
 <br>
@@ -99,7 +99,7 @@ _Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/25
    <tr>
 </table>
 
-## Week Two 
+## Week Two Due 9/3
 
 ### Idea
 Our idea is a random password generator that will help students like us find secure passwords. Our website will have multiple features that will allow the user You can click on the requirement boxes to slightly customize the password depending on what you need for the website's qualifications.

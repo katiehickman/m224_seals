@@ -1,21 +1,44 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
-## Week Three (Sprint 3,4)
 ## M224 - Seals
+
+## Week Three (Sprint 3,4 Week 3): Due 9/13
 
 ### Website Video Highlights
 
 https://user-images.githubusercontent.com/89224064/132936398-239cc843-fa9f-4cb7-b1df-218e90517dfe.mp4
 
-Website Design Updates:
-<a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a>
+This week we spent a lot of time working on the website design and trying to get certain parts of it to work correctly. For example, the mini-lab and color scheme were the things we put most of our effort into for week three.
+
+### Scores
+**_Katie Hickman_**: 5/5
+<br>
+Katie and Shreya both completed the tasks that they were assigned, which was developing the website. Also had great communication.
+<br>
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
 <a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
 
+_**Shreya Ahuja:**_ 5/5
+<br>
+Katie and Shreya both completed the tasks that they were assigned, which was developing the website. Really helped the team move along and work effectivly whenever we were struggling.
+<br>
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
+<a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
+
+**_Derek Bokelman_**: 5/5
+<br>
+Helped organize everything and come up with solutions for issues.
+<br>
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23">Scrum Master/Tester</a>
+
+**_Kian Pasokhi_**: 5/5
+<br>
+Created the second theme and did all other necessary tasks.
+<br>
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23">Experimenting with two themes</a>
 
 
-<iframe src="https://drive.google.com/file/d/1QlIGi9SsSNgouiY67NPJqL4Rw0DsxjzW/preview" width="320" height="240"></iframe>
-
-<td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
+  <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
   <br>
   <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
   <br>
@@ -71,7 +94,7 @@ Website Design Updates:
    <tr>
 </table>
 
-## Week Two 
+## Week Two (PBL 1,2): Due 9/3
 
 ### Idea
 Our idea is a random password generator that will help students like us find secure passwords. Our website will have multiple features that will allow the user You can click on the requirement boxes to slightly customize the password depending on what you need for the website's qualifications.
@@ -82,14 +105,6 @@ Our idea is a random password generator that will help students like us find sec
 
     • examples: special characters, capital letters, numbers, and length
     
-### Table of Contents
-• About Us
-
-• Mini Lab
-
-• Home Page
-
-• Greet Tab
 
 ### Scores
 Katie Hickman: 8/8
@@ -111,29 +126,7 @@ About Us Page:
 Mini Lab Page:
 ![image](https://user-images.githubusercontent.com/89224064/132061759-2a4fc964-7124-4bc2-ab3f-386363aa0e42.png)
 
+## Week One (Video Journal 0/1): Due 8/27
 
+https://drive.google.com/file/d/19WDB1PnMOq3koAoe01qFVNEmUDhe5GWd/preview
 
-
-## Week Three
-
-### What we completed this week
-This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
-
-### Scores
-Katie Hickman: 5/5
-Katie and Shreya both completed the tasks that they were assigned which was developing the website. Also had great communication.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
-https://github.com/katiehickman/flask_portfolio/issues/26
-
-Shreya Ahuja: 5/5
-Katie and Shreya both completed the tasks that they were assigned which was developing the website. Really helped the team move along and work effectivly whenever we were struggiling.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
-https://github.com/katiehickman/flask_portfolio/issues/26
-
-Derek Bokelman: 5/5
-Helped organize everything and come up with solutions for issues.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/23
-
-Kian Pasokhi: 5/5
-Created the second theme and did all other nescaserry tasks.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/25

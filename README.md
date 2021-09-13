@@ -1,7 +1,9 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## M224 - Seals
-## Week Three (Sprint 3,4): Due 9/13
+## Week Four (Sprint 3,4 Week 4): Due 8/27
+
+## Week Three (Sprint 3,4 Week 3): Due 9/13
 
 ### Website Video Highlights
 
@@ -99,7 +101,7 @@ _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23"
    <tr>
 </table>
 
-## Week Two PBL 1, 2: Due 9/3
+## Week Two (PBL 1,2): Due 9/3
 
 ### Idea
 Our idea is a random password generator that will help students like us find secure passwords. Our website will have multiple features that will allow the user You can click on the requirement boxes to slightly customize the password depending on what you need for the website's qualifications.
@@ -131,7 +133,7 @@ About Us Page:
 Mini Lab Page:
 ![image](https://user-images.githubusercontent.com/89224064/132061759-2a4fc964-7124-4bc2-ab3f-386363aa0e42.png)
 
-## Week One Video Journal 0/1: Due 9/3
+## Week One (Video Journal 0/1): Due 8/27
 
 https://drive.google.com/file/d/19WDB1PnMOq3koAoe01qFVNEmUDhe5GWd/preview
 

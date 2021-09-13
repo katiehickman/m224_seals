@@ -1,13 +1,13 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
-## Week Three (Sprint 3,4) Due 9/13
 ## M224 - Seals
+## Week Three (Sprint 3,4) Due 9/13
 
 ### Website Video Highlights
 
 https://user-images.githubusercontent.com/89224064/132936398-239cc843-fa9f-4cb7-b1df-218e90517dfe.mp4
 
-This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
+This week we spent a lot of time working on the website design and trying to get certain parts of it to work correctly. For example, the mini-lab and color scheme were the things we put most of our effort into for week three.
 
 ### Scores
 **_Katie Hickman_**: 5/5

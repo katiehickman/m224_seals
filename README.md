@@ -104,3 +104,20 @@ About Us Page:
 
 Mini Lab Page:
 ![image](https://user-images.githubusercontent.com/89224064/132061759-2a4fc964-7124-4bc2-ab3f-386363aa0e42.png)
+
+
+
+## Week Three
+
+### What we completed this week
+This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
+
+### Scores
+Katie Hickman: 8/8
+
+Shreya Ahuja: 8/8
+
+Derek Bokelman: 8/8
+
+Kian Pasokhi: 8/8
+

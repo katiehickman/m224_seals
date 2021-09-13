@@ -37,12 +37,6 @@ Created the second theme and did all other necessary tasks.
 <br>
 _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23">Experimenting with two themes</a>
 
-**_Website Design Update Issues:_**
-<br>
-<a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
-<a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
-
-
 
   <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
   <br>

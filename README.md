@@ -1,7 +1,6 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## M224 - Seals
-## Week Four (Sprint 3,4 Week 4): Due 8/27
 
 ## Week Three (Sprint 3,4 Week 3): Due 9/13
 

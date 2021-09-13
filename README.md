@@ -1,6 +1,6 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
-## Week Three (Sprint 3,4) Due 9/13
+## Week Three (Sprint 3,4)
 ## M224 - Seals
 
 ### Website Video Highlights
@@ -10,25 +10,33 @@ https://user-images.githubusercontent.com/89224064/132936398-239cc843-fa9f-4cb7-
 This week we spent a lot of time working on the website and trying to get certain parts of it to work correctly
 
 ### Scores
-Katie Hickman: 5/5
+**_Katie Hickman_**: 5/5
+<br>
 Katie and Shreya both completed the tasks that they were assigned which was developing the website. Also had great communication.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
+<br>
+_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/24
 https://github.com/katiehickman/flask_portfolio/issues/26
 
-Shreya Ahuja: 5/5
+_**Shreya Ahuja:**_ 5/5
+<br>
 Katie and Shreya both completed the tasks that they were assigned which was developing the website. Really helped the team move along and work effectivly whenever we were struggling.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/24
+<br>
+_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/24
 https://github.com/katiehickman/flask_portfolio/issues/26
 
-Derek Bokelman: 5/5
+**_Derek Bokelman_**: 5/5
+<br>
 Helped organize everything and come up with solutions for issues.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/23
+<br>
+_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/23
 
-Kian Pasokhi: 5/5
+**_Kian Pasokhi_**: 5/5
+<br>
 Created the second theme and did all other nescaserry tasks.
-Tangibles: https://github.com/katiehickman/flask_portfolio/issues/25
+<br>
+_Tangibles_: https://github.com/katiehickman/flask_portfolio/issues/25
 
-Website Design Update Issues:
+**_Website Design Update Issues:_**
 <br>
 <a href="https://github.com/katiehickman/flask_portfolio/issues/26">Create and rename location for mini-lab</a> and 
 <a href="https://github.com/katiehickman/flask_portfolio/issues/24">Prototype layout</a>
@@ -91,7 +99,7 @@ Website Design Update Issues:
    <tr>
 </table>
 
-## Week Two 9/3
+## Week Two 
 
 ### Idea
 Our idea is a random password generator that will help students like us find secure passwords. Our website will have multiple features that will allow the user You can click on the requirement boxes to slightly customize the password depending on what you need for the website's qualifications.

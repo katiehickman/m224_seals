@@ -35,7 +35,7 @@ _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23"
 <br>
 Created the second theme and did all other necessary tasks.
 <br>
-_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23">Experimenting with two themes</a>
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/25">Experimenting with two themes</a>
 
 
   <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  

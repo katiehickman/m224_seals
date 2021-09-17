@@ -2,6 +2,58 @@
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## M224 - Seals
 
+## Week Four (Sprint 3,4 Week 3): Due 9/17
+
+### Scores
+**_Katie Hickman_**
+<br>
+_Self Grade_: 
+<br>
+_Scrum Master Grade_:
+<br>
+_Individual Comments:_ 
+<br>
+_Scrum Master Comments:_
+<br>
+Tangibles: 
+
+**_Shreya Ahuja_**
+<br>
+_Self Grade_: 5/5
+<br>
+_Scrum Master Grade_:
+<br>
+_Individual Comments:_ This week, we all worked together really well and I think we made a lot of progress on our website. Katie and I worked on the techincal aspects in the binary.html and aboutus.html. We also worked on the design part of our website to make it look more like the wireframe.
+<br>
+_Scrum Master Comments:_
+<br>
+Tangibles: 
+
+
+**_Derek Bokelman_**
+<br>
+_Self Grade_: 
+<br>
+_Scrum Master Grade_:
+<br>
+_Individual Comments:_ 
+<br>
+_Scrum Master Comments:_
+<br>
+Tangibles: 
+
+**_Kian Pasokhi_**
+<br>
+_Self Grade_: 
+<br>
+_Scrum Master Grade_:
+<br>
+_Individual Comments:_ 
+<br>
+_Scrum Master Comments:_
+<br>
+Tangibles: 
+
 ## Week Three (Sprint 3,4 Week 3): Due 9/13
 
 ### Website Video Highlights
@@ -33,7 +85,7 @@ _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23"
 
 **_Kian Pasokhi_**: 5/5
 <br>
-Created the 2 minute video and created the starter.py.
+Created the second theme and did all other necessary tasks.
 <br>
 _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/25">Experimenting with two themes</a>
 

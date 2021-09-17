@@ -7,15 +7,16 @@
 ### Scores
 **_Katie Hickman_**
 <br>
-_Self Grade_: 
+_Self Grade_: 5/5
 <br>
 _Scrum Master Grade_:
 <br>
-_Individual Comments:_ 
+_Individual Comments:_ During this week, our collaboration got better and we finished all of the hack tasks in binary.html. Shreya and I also added more design elements. The most important thing we did this week was implement technical ideas into our website.
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: 
+Tangibles: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
+<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
 
 **_Shreya Ahuja_**
 <br>
@@ -27,7 +28,8 @@ _Individual Comments:_ This week, we all worked together really well and I think
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: 
+Tangibles:
+<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
 
 
 **_Derek Bokelman_**

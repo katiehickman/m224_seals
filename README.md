@@ -15,7 +15,7 @@ _Individual Comments:_ During this week, our collaboration got better and we fin
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
 <a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
 
 **_Shreya Ahuja_**
@@ -28,12 +28,17 @@ _Individual Comments:_ This week, we all worked together really well and I think
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles:
+_Tangibles_:
 My jobs this week were the
 <a href="https://github.com/katiehickman/flask_portfolio/issues/32">designer/prototyper</a> and to
 <a href="https://github.com/katiehickman/flask_portfolio/issues/35"> make homepage more unique. </a>
 Also,
 <a href="https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa"> code commits </a> showing technical ideas, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetshreya.html">greetshreya.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>.
+There are also my links to my journals which show my work: 
+<a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing"> Personal Journal </a> 
+and
+<a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing"> Pair Share Journal </a> 
+
 
 
 **_Derek Bokelman_**
@@ -46,7 +51,7 @@ _Individual Comments:_
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: 
+_Tangibles_: 
 
 **_Kian Pasokhi_**
 <br>
@@ -58,7 +63,7 @@ _Individual Comments:_
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: 
+_Tangibles_: 
 
 ## Week Three (Sprint 3,4 Week 3): Due 9/13
 

@@ -33,7 +33,7 @@ _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/23"
 
 **_Kian Pasokhi_**: 5/5
 <br>
-Created the second theme and did all other necessary tasks.
+Created the 2 minute video and created the starter.py.
 <br>
 _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/25">Experimenting with two themes</a>
 

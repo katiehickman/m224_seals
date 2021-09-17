@@ -24,12 +24,16 @@ _Self Grade_: 5/5
 <br>
 _Scrum Master Grade_:
 <br>
-_Individual Comments:_ This week, we all worked together really well and I think we made a lot of progress on our website. Katie and I worked on the techincal aspects in the binary.html and aboutus.html. We also worked on the design part of our website to make it look more like the wireframe.
+_Individual Comments:_ This week, we all worked together really well and I think we made a lot of progress on our website. Katie and I worked on the techincal aspects in the binary.html and aboutus.html. We also worked on the design part of our website to make it look more like the wireframe. We also worked on the animation aspect, like having a Click Here on the about us, and if you click on the pictures on our greet pages, they will change.
 <br>
 _Scrum Master Comments:_
 <br>
 Tangibles:
-<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
+My jobs this week were the
+<a href="https://github.com/katiehickman/flask_portfolio/issues/32">designer/prototyper</a> and to
+<a href="https://github.com/katiehickman/flask_portfolio/issues/35"> make homepage more unique. </a>
+Also,
+<a href="https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa"> code commits </a> showing technical ideas, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetshreya.html">greetshreya.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>.
 
 
 **_Derek Bokelman_**

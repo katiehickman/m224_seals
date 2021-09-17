@@ -5,42 +5,35 @@
 
 <br>
 <p style="font-size: xx-large; text-align: center;"> About Us</p>
+<p id="demo" style="text-align: center; font-size: larger; font-family: Baskerville">Click!</p>
+
+<script>
+    document.getElementById("demo").onclick = function() {myFunction()};
+
+    function myFunction() {
+        document.getElementById("demo").innerHTML = "M224 Seals";
+    }
+</script>
+</p>
 
 <div class="card" style="text-align: left; width: 19rem; margin-left: 100px">
-    <img src=/static/design/katieaboutus.png width="200" height="400" class="card-img-top">
-    <div class="card-body">
+            <img src=/static/design/katieaboutus.png width="200" height="400" class="card-img-top">
+            <div class="card-body">
         <h5 class="card-title">Katie Hickman</h5>
-        <p class="card-text"><p id="demo">Click this to know about me!</p>
-
-        <script>
-            document.getElementById("demo").onclick = function() {myFunction()};
-
-            function myFunction() {
-                document.getElementById("demo").innerHTML = "My name is Katie and I have two cats. I love hiking and spending time with friends. My favorite colors are pink and green :) ";
-            }
-        </script>
+       <p class="card-text">My name is Katie and I have two cats. I love hiking and spending time with friends. My favorite colors are pink and green :)</p>
         </p>
         <a href="/greetkatie" style="background-color: #F6DBC3;" class="btn">My Greet Tab</a>
-    </div>
-</div>
+            </div>
+        </div>
 
-<div class="card" style="text-align: left; width: 18rem;">
-    <img src=/static/design/IMG_6393.jpg width="200" height="400" class="card-img-top">
-    <div class="card-body">
+    <div class="card" style="text-align: left; width: 18rem; margin-left: 430px">
+        <img src=/static/design/IMG_6393.jpg width="200" height="400" class="card-img-top">
+        <div class="card-body">
         <h5 class="card-title">Shreya Ahuja</h5>
-        <p class="card-text"><p id="demo2">Click to know about me!</p>
-
-        <script>
-            document.getElementById("demo2").onclick = function() {myFunction()};
-
-            function myFunction() {
-                document.getElementById("demo2").innerHTML = "My name is Shreya Ahuja and I have a dog! I play volleyball and I like to spend time with my friends and family";
-            }
-        </script>
-        </p>
+        <p class="card-text"> </p>
         <a href="/greetshreya" style="background-color: #F6DBC3;" class="btn">My Greet Tab</a>
+        </div>
     </div>
-</div>
 </html>
 </body>
 

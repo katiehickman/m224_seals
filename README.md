@@ -15,8 +15,8 @@ _Individual Comments:_ During this week, our collaboration got better and we fin
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
-<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
+<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>. I took notes in my <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Personal Journal</a> a lot this week.
 
 **_Shreya Ahuja_**
 <br>
@@ -24,12 +24,21 @@ _Self Grade_: 5/5
 <br>
 _Scrum Master Grade_:
 <br>
-_Individual Comments:_ This week, we all worked together really well and I think we made a lot of progress on our website. Katie and I worked on the techincal aspects in the binary.html and aboutus.html. We also worked on the design part of our website to make it look more like the wireframe.
+_Individual Comments:_ This week, we all worked together really well and I think we made a lot of progress on our website. Katie and I worked on the techincal aspects in the binary.html and aboutus.html. We also worked on the design part of our website to make it look more like the wireframe. We also worked on the animation aspect, like having a Click Here on the about us, and if you click on the pictures on our greet pages, they will change.
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles:
-<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
+_Tangibles_:
+My jobs this week were the
+<a href="https://github.com/katiehickman/flask_portfolio/issues/32">designer/prototyper</a> and to
+<a href="https://github.com/katiehickman/flask_portfolio/issues/35"> make homepage more unique. </a>
+Also,
+<a href="https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa"> code commits </a> showing technical ideas, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetshreya.html">greetshreya.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>.
+There are also my links to my journals which show my work: 
+<a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing"> Personal Journal </a> 
+and
+<a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing"> Pair Share Journal </a> 
+
 
 
 **_Derek Bokelman_**
@@ -42,19 +51,19 @@ _Individual Comments:_
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: 
+_Tangibles_: 
 
 **_Kian Pasokhi_**
 <br>
-_Self Grade_: 5/5
+_Self Grade_: 
 <br>
 _Scrum Master Grade_:
 <br>
-_Individual Comments:_ This week we really got our collaboration down and a lot was done. For the code, I integrated the starter.py file and got my 30-second video done and I also tested everything we added, making sure everything was working well.
+_Individual Comments:_ 
 <br>
 _Scrum Master Comments:_
 <br>
-Tangibles: Starter.py:https://github.com/katiehickman/flask_portfolio/blob/main/templates/starter.py Navigator/Tester:https://github.com/katiehickman/flask_portfolio/issues/33 Binary:https://github.com/katiehickman/flask_portfolio/projects/4
+_Tangibles_: 
 
 ## Week Three (Sprint 3,4 Week 3): Due 9/13
 

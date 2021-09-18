@@ -47,11 +47,13 @@ _Self Grade_: 5/5
 <br>
 _Scrum Master Grade_: 5/5
 <br>
-_Individual Comments:_ This week, we all worked on multipel things. The two biggest things I had to do was organize the scrum board and assign people different things. The other main task I had was to add a commit to the website. What I did for my commit was add the python.py and the image.html. Another thing I did this week was working on the video. I had to do this to show my tangibles for that.
+_Individual Comments:_ This week, we all worked on multipel things. The two biggest things I had to do was organize the scrum board and assign people different things. The other main task I had was to add a commit to the website. What I did for my commit was add the image.py and the rgb.html. Another thing I did this week was working on the video. I had to do this to show my tangibles for that.
 <br>
 _Scrum Master Comments:_ Agree with all
 <br>
-_Tangibles_: 
+_Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/image.py">Technical task</a> 
+<br>
+<a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/rgb.html"> RGB.html </a>
 
 **_Kian Pasokhi_**
 <br>

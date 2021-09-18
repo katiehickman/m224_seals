@@ -55,15 +55,15 @@ _Tangibles_:
 
 **_Kian Pasokhi_**
 <br>
-_Self Grade_: 
+_Self Grade_: 5/5
 <br>
 _Scrum Master Grade_:
 <br>
-_Individual Comments:_ 
+_Individual Comments:_ This week we really got our collaboration down and a lot was done. For the code, I integrated the starter.py file and got my 30-second video done and I also tested everything we added, making sure everything was working well.
 <br>
 _Scrum Master Comments:_
 <br>
-_Tangibles_: 
+_Tangibles_: Starter.py:https://github.com/katiehickman/flask_portfolio/blob/main/templates/starter.py Navigator/Tester:https://github.com/katiehickman/flask_portfolio/issues/33 Binary:https://github.com/katiehickman/flask_portfolio/projects/4
 
 ## Week Three (Sprint 3,4 Week 3): Due 9/13
 

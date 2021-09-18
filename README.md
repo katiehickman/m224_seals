@@ -16,7 +16,7 @@ _Individual Comments:_ During this week, our collaboration got better and we fin
 _Scrum Master Comments:_
 <br>
 _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
-<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>
+<a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>. I took notes in my <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Personal Journal</a> a lot this week.
 
 **_Shreya Ahuja_**
 <br>

@@ -9,11 +9,11 @@
 <br>
 _Self Grade_: 5/5
 <br>
-_Scrum Master Grade_:
+_Scrum Master Grade_: 5/5
 <br>
 _Individual Comments:_ During this week, our collaboration got better and we finished all of the hack tasks in binary.html. Shreya and I also added more design elements. The most important thing we did this week was implement technical ideas into our website.
 <br>
-_Scrum Master Comments:_
+_Scrum Master Comments:_ Completed akk tasks that were assigned and had great communication.
 <br>
 _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman">Code commits showing technical ideas</a>, specifically in <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/greetkatie.html">greetkatie.html</a> and <a href="https://github.com/katiehickman/flask_portfolio/blob/main/templates/aboutus.html">aboutus.html</a>. Also,
 <a href="https://github.com/katiehickman/flask_portfolio/issues/32">Designer/Prototyper</a> and <a href="https://github.com/katiehickman/flask_portfolio/issues/35">Make homepage more unique</a>. I took notes in my <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Personal Journal</a> a lot this week.
@@ -22,11 +22,11 @@ _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/commits?au
 <br>
 _Self Grade_: 5/5
 <br>
-_Scrum Master Grade_:
+_Scrum Master Grade_: 5/5 
 <br>
 _Individual Comments:_ This week, we all worked together really well and I think we made a lot of progress on our website. Katie and I worked on the techincal aspects in the binary.html and aboutus.html. We also worked on the design part of our website to make it look more like the wireframe. We also worked on the animation aspect, like having a Click Here on the about us, and if you click on the pictures on our greet pages, they will change.
 <br>
-_Scrum Master Comments:_
+_Scrum Master Comments:_ Did everything necessary and was able to help other people in our group.
 <br>
 _Tangibles_:
 My jobs this week were the
@@ -43,13 +43,13 @@ and
 
 **_Derek Bokelman_**
 <br>
-_Self Grade_: 
+_Self Grade_: 5/5
 <br>
-_Scrum Master Grade_:
+_Scrum Master Grade_: 5/5
 <br>
-_Individual Comments:_ 
+_Individual Comments:_ This week, we all worked on multipel things. The two biggest things I had to do was organize the scrum board and assign people different things. The other main task I had was to add a commit to the website. What I did for my commit was add the python.py and the image.html. Another thing I did this week was working on the video. I had to do this to show my tangibles for that.
 <br>
-_Scrum Master Comments:_
+_Scrum Master Comments:_ Agree with all
 <br>
 _Tangibles_: 
 

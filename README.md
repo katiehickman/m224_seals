@@ -1,6 +1,62 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
-## M224 - Seals
+## M224 Seals Contributers
+  <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
+  <br>
+  <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
+  <br>
+  <br>
+<table>
+  <tr>
+    <th> </th>
+    <th>Katie Hickman</th>
+    <th>Shreya Ahuja</th>
+    <th>Kian Pasokhi</th>
+    <th>Derek Bokelman</th>
+  </tr>
+  <tr>
+    <td>GitHub Username</td>
+    <td>katiehickman</td>
+    <td>shreya-ahujaa</td>
+    <td>kiannp44</td>
+    <td>DerekBokelman</td>
+  </tr>
+  <tr>
+    <td>Tasks</td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/katiehickman>Katie's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/shreya-ahujaa>Shreya's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/kiannp44>Kian's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/DerekBokelman>Derek's Tasks</a></td>
+   <tr>
+    <td>Commits</td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman>Katie's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa>Shreya's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=kiannp44>Kian's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=DerekBokelman>Derek's Commits</a></td>
+  </tr>
+   <tr>
+    <td>Scrum Board</td>
+     <td><a href= https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akatiehickman>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Ashreya-ahujaa>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akiannp44>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Aderekbokelman>Scrum Board</a> </td>
+  </tr>
+   <tr>
+    <td>Profile</td>
+    <td><a href= https://github.com/katiehickman>Katie's Profile</a></td>
+    <td><a href=https://github.com/shreya-ahujaa>Shreya's Profile</a></td>
+    <td><a href=https://github.com/kiannp44>Kian's Profile</a></td>
+    <td><a href=https://github.com/DerekBokelman>Derek's Profile</a></td>
+  </tr>
+    <tr>
+    <td>Pair Share Journals</td>
+    <td><a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
+   <tr>
+</table>
+
 
 ## Week Four (Sprint 3,4 Week 3): Due 9/17
 
@@ -102,62 +158,6 @@ Created the second theme and did all other necessary tasks.
 <br>
 _Tangibles_: <a href="https://github.com/katiehickman/flask_portfolio/issues/25">Experimenting with two themes</a>
 
-
-  <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
-  <br>
-  <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
-  <br>
-  <br>
-<table>
-  <tr>
-    <th> </th>
-    <th>Katie Hickman</th>
-    <th>Shreya Ahuja</th>
-    <th>Kian Pasokhi</th>
-    <th>Derek Bokelman</th>
-  </tr>
-  <tr>
-    <td>GitHub Username</td>
-    <td>katiehickman</td>
-    <td>shreya-ahujaa</td>
-    <td>kiannp44</td>
-    <td>DerekBokelman</td>
-  </tr>
-  <tr>
-    <td>Tasks</td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/katiehickman>Katie's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/shreya-ahujaa>Shreya's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/kiannp44>Kian's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/DerekBokelman>Derek's Tasks</a></td>
-   <tr>
-    <td>Commits</td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman>Katie's Commits</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa>Shreya's Commits</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=kiannp44>Kian's Commits</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=DerekBokelman>Derek's Commits</a></td>
-  </tr>
-   <tr>
-    <td>Scrum Board</td>
-     <td><a href= https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akatiehickman>Scrum Board</a> </td>
-     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Ashreya-ahujaa>Scrum Board</a> </td>
-     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akiannp44>Scrum Board</a> </td>
-     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Aderekbokelman>Scrum Board</a> </td>
-  </tr>
-   <tr>
-    <td>Profile</td>
-    <td><a href= https://github.com/katiehickman>Katie's Profile</a></td>
-    <td><a href=https://github.com/shreya-ahujaa>Shreya's Profile</a></td>
-    <td><a href=https://github.com/kiannp44>Kian's Profile</a></td>
-    <td><a href=https://github.com/DerekBokelman>Derek's Profile</a></td>
-  </tr>
-    <tr>
-    <td>Pair Share Journals</td>
-    <td><a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a></td>
-    <td><a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a></td>
-    <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
-    <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
-   <tr>
-</table>
 
 ## Week Two (PBL 1,2): Due 9/3
 

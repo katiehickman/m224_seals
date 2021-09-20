@@ -57,6 +57,26 @@
    <tr>
 </table>
 
+<br>
+
+## Week 5 (Sprint 5,6 Week 5): Due 9/25
+### Modeling
+| Name | Requirement | Evidence | Grade |
+| ---  | ---         | ---      | ---   |
+| Katie Hickman | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
+| Shreya Ahuja | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
+| Derek Bokelman | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
+| Kian Pasokhi | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
+
+### Individual Scoring
+| Name | Pair Share Journal | Personal Journal | Grade |
+| ---  | ---            | ---            | ---   |
+| Katie Hickman | Journal | Notes | -/5 |
+| Shreya Ahuja | Journal | Notes | -/5 |
+| Derek Bokelman | Journal | Notes | -/5 |
+| Kian Pasokhi | Journal | Notes | -/5 |
+
+<br>
 
 ## Week Four (Sprint 3,4 Week 3): Due 9/17
 

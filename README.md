@@ -59,6 +59,14 @@
 
 <br>
 
+## Table of Contents
+- <a href="https://github.com/katiehickman/flask_portfolio#week-5-sprint-56-week-5-due-925">Week 5</a>
+- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 4</a>
+- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 3</a>
+- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 2</a>
+- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
+
+
 ## Week 5 (Sprint 5,6 Week 5): Due 9/25
 ### Modeling
 | Name | Requirement | Evidence | Grade |

@@ -30,13 +30,9 @@ def binary():
     return render_template("binary.html", bits=8)
 
 
-@app.route('/lists/')
-def lists():
-    return render_template("lists.py")
-
 @app.route('/rgb/')
 def rgb():
-    return render_template('starter/rgb.html', images=image_data())
+    return render_template('rgb.html', images=image_data())
 
 @app.route('/greetkatie', methods=['GET', 'POST'])
 def greetkatie():

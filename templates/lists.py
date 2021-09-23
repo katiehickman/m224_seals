@@ -1,3 +1,5 @@
+
+# Challenge 1
 var1 = 3
 var2: str = "Mr. Mortensen"
 var3: chr = 'f'
@@ -8,6 +10,8 @@ print(var2 + ': String')
 print(var3 + ': Character')
 print(var4 + ': Float')
 
+
+# Challenge 2
 list1 = [5, 3, 4, 1, 2]
 list1[3] = 1
 list1[4] = 2
@@ -18,7 +22,7 @@ list2 = list1
 print(list2)
 
 
-
+# Challenge 3
 
 
 

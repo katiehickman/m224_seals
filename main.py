@@ -1,5 +1,6 @@
 # import "packages" from flask
 from flask import Flask, render_template, request
+from image import image_data
 
 # create a Flask instance
 app = Flask(__name__)
@@ -32,6 +33,10 @@ def binary():
 @app.route('/lists/')
 def lists():
     return render_template("lists.py")
+
+@app.route('/rgb/')
+def rgb():
+    return render_template('starter/rgb.html', images=image_data())
 
 @app.route('/greetkatie', methods=['GET', 'POST'])
 def greetkatie():

@@ -20,12 +20,13 @@ def image_formatter(img, img_type):
 def image_data(path="static/design/", img_list=None):  # path of static images is defaulted
     if img_list is None:  # color_dict is defined with defaults
         img_list = [
-            {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "lock.png"},
+            {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "rgbkatie.jpg"},
             #{'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "shreyaaboutus.jpg"},
             #{'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "aboutusderek.jpeg"},
             #{'source': "Kian's Phones", 'label': "Kian Pasokhi", 'file': "green-square-16.png"},
 
         ]
+
     # gather analysis data and meta data for each image, adding attributes to each row in table
     for img_dict in img_list:
         img_dict['path'] = '/' + path  # path for HTML access (frontend)
@@ -68,7 +69,7 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
 if __name__ == "__main__":
     local_path = "/static/design/"
     img_test = [
-        {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "katieaboutus.png"},
+        {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "rgbkatie.jpg"},
     ]
     items = image_data(local_path, img_test)  # path of local run
     for row in items:

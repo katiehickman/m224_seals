@@ -84,6 +84,10 @@
 | Derek Bokelman | Journal | Notes | -/5 |
 | Kian Pasokhi | Journal | Notes | -/5 |
 
+#### Completed Quizzes
+Katie:
+<br> <img width="450" alt="Screen Shot 2021-09-23 at 12 07 16 PM" src="https://user-images.githubusercontent.com/89223621/134568702-bbdf95cb-457f-4204-beca-4615933f531c.png">
+
 <br>
 
 ## Week Four (Sprint 3,4 Week 3): Due 9/17

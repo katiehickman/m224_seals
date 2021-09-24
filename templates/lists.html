@@ -1,0 +1,13 @@
+{% include "layouts/navbar.html" %}
+
+
+<html>
+{% block body %}
+<body>
+{% for line in lists %}
+{{ line }}
+{% endfor %}
+</body>
+{% endblock %}
+
+</html>

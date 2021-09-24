@@ -22,7 +22,7 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
     if img_list is None:  # color_dict is defined with defaults
         img_list = [
             {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "katiergb.jpg"},
-            #{'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "shreyaaboutus.jpg"},
+            {'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "banff.jpg"},
             #{'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "aboutusderek.jpeg"},
             #{'source': "Kian's Phones", 'label': "Kian Pasokhi", 'file': "green-square-16.png"},
 

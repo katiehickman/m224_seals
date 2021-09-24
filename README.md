@@ -84,10 +84,10 @@ We like the presentations because they have helpful information and we will try 
 ### Scrum/Pair Activities
 | Name | Pair Share Journal | Personal Journal | Grade |
 | ---  | ---            | ---            | ---   |
-| Katie Hickman | Journal | Notes | -/5 |
-| Shreya Ahuja | Journal | Notes | -/5 |
-| Derek Bokelman | Journal | Notes | -/5 |
-| Kian Pasokhi | Journal | Notes | -/5 |
+| Katie Hickman | <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Katie's Notes</a> | 3/3 |
+| Shreya Ahuja | <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> | <a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing">Shreya's Journal</a> | 3/3 |
+| Derek Bokelman | <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit?usp=sharing">Derek's Notes </a> | 3/3 |
+| Kian Pasokhi | <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit?usp=sharing">Kian's Notes</a> | 3/3 |
 
 #### Completed Quizzes
 Katie:

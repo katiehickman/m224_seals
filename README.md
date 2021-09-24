@@ -96,6 +96,13 @@ Katie:
 Shreya:
 <br> <img width="400" alt="Screen Shot 2021-09-23 at 12 13 46 PM" src="https://user-images.githubusercontent.com/89224064/134569488-7240c03c-28d2-4d5f-9f18-8104995b546f.png">
 
+<br> 
+
+Derek:
+<br> <img width="450" alt="Screen Shot 2021-09-24 at 1 59 56 PM" src="https://user-images.githubusercontent.com/89224064/134739169-412c2210-8bd3-4dc1-93a1-c3a551368178.png">
+
+
+
 
 <br>
 

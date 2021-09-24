@@ -67,7 +67,8 @@
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
 
 
-## Week 5 (Sprint 5,6 Week 5): Due 9/25
+## Week 6
+
 ### Modeling
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
@@ -76,7 +77,11 @@
 | Derek Bokelman | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
 | Kian Pasokhi | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
 
-### Individual Scoring
+## Week 5 (Sprint 5,6 Week 5): Due 9/25
+### Notes for TOs and OOs
+We like the presentations because they have helpful information and we will try to engage more when the next TPT is given. The hacks in the code are helpful and help us understand the concepts more when we're coding. The excercises are useful and we are working towards doing the extra credit. For suggestions, maybe we can do another kahoot or practice quiz with the whole class.
+
+### Scrum/Pair Activities
 | Name | Pair Share Journal | Personal Journal | Grade |
 | ---  | ---            | ---            | ---   |
 | Katie Hickman | Journal | Notes | -/5 |
@@ -90,7 +95,6 @@ Katie:
 
 Shreya:
 <br> <img width="400" alt="Screen Shot 2021-09-23 at 12 13 46 PM" src="https://user-images.githubusercontent.com/89224064/134569488-7240c03c-28d2-4d5f-9f18-8104995b546f.png">
-
 
 
 <br>

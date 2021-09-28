@@ -82,12 +82,12 @@
 We like the presentations because they have helpful information and we will try to engage more when the next TPT is given. The hacks in the code are helpful and help us understand the concepts more when we're coding. The excercises are useful and we are working towards doing the extra credit. For suggestions, maybe we can do another kahoot or practice quiz with the whole class.
 
 ### Scrum/Pair Activities
-| Name | Pair Share Journal | Personal Journal | Grade |
-| ---  | ---            | ---            | ---   |
-| Katie Hickman | <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Katie's Notes</a> | 3/3 |
-| Shreya Ahuja | <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> | <a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing">Shreya's Journal</a> | 3/3 |
-| Derek Bokelman | <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit?usp=sharing">Derek's Notes </a> | 3/3 |
-| Kian Pasokhi | <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit?usp=sharing">Kian's Notes</a> | 3/3 |
+| Name | Pair Share Journal | Personal Journal | Tickets | Grade |
+| ---  | ---            | ---            | ---            | ---   |
+| Katie Hickman | <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Katie's Notes</a> |<a href="https://github.com/katiehickman/flask_portfolio/issues/40">Scrum Pair Activity 3.1</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/42">Scrum Pair Activity 3.2</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/38">Scrum Pair Activity OO's and TO's</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/50">TPT 5 Work</a>| 3/3 |
+| Shreya Ahuja | <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing">Shreya and Katie's Pair Share Journal</a> | <a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing">Shreya's Notes</a> |<a href="https://github.com/katiehickman/flask_portfolio/issues/40">Scrum Pair Activity 3.1</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/42">Scrum Pair Activity 3.2</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/38">Scrum Pair Activity OO's and TO's</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/50">TPT 5 Work</a>| 3/3 |
+| Derek Bokelman | <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit?usp=sharing">Derek's Notes </a> |<a href="https://github.com/katiehickman/flask_portfolio/issues/41">Scrum Pair Activity 3.1</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/43">Scrum Pair Activity 3.2</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/39">Scrum Pair Activity OO's and TO's</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/50">TPT 5 Work</a>| 3/3 |
+| Kian Pasokhi | <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a> |  <a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit?usp=sharing">Kian's Notes</a> |<a href="https://github.com/katiehickman/flask_portfolio/issues/41">Scrum Pair Activity 3.1</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/43">Scrum Pair Activity 3.2</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/39">Scrum Pair Activity OO's and TO's</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/50">TPT 5 Work</a>| 3/3 |
 
 #### Completed Quizzes
 Katie:
@@ -95,6 +95,13 @@ Katie:
 
 Shreya:
 <br> <img width="400" alt="Screen Shot 2021-09-23 at 12 13 46 PM" src="https://user-images.githubusercontent.com/89224064/134569488-7240c03c-28d2-4d5f-9f18-8104995b546f.png">
+
+<br> 
+
+Derek:
+<br> <img width="450" alt="Screen Shot 2021-09-24 at 1 59 56 PM" src="https://user-images.githubusercontent.com/89224064/134739169-412c2210-8bd3-4dc1-93a1-c3a551368178.png">
+
+
 
 
 <br>

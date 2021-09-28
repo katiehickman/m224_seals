@@ -73,10 +73,10 @@
 ### Modeling
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
-| Shreya Ahuja | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
-| Derek Bokelman | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
-| Kian Pasokhi | View/Frontend RGB Values<br>View/Backend RGB Values<br> New Model Improvements | Ticket<br>Ticket<br>Ticket | -/1<br>-/1<br>-/3 |
+| Katie Hickman | Documentation<br>RGB Values with an image, Frontend<br> TPT Notes | <a href="https://github.com/katiehickman/flask_portfolio/issues/53">Ticket</a> <br> <a href="https://github.com/katiehickman/flask_portfolio/issues/44">Ticket</a><br> <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/2 |
+| Shreya Ahuja | Documentation<br>RGB Values with an Image, New Development<br> TPT Notes | <a href="https://github.com/katiehickman/flask_portfolio/issues/53">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/46">Ticket</a><br><a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/2 |
+| Derek Bokelman | Research/Study sheet/journals<br>View/Backend RGB Values<br> TPT Notes | Ticket<br>Ticket<br>Ticket | -/2<br>-/1<br>-/2 |
+| Kian Pasokhi | Research/Study sheet/journal<br>View/Backend RGB Values<br> TPT Notes | Ticket<br>Ticket<br>Ticket | -/2<br>-/1<br>-/2 |
 
 ## Week 5 (Sprint 5,6 Week 5): Due 9/25
 ### Notes for TOs and OOs

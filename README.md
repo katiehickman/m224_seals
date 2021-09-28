@@ -67,7 +67,7 @@
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
 
 
-## Week 6
+## Week 6 (Sprint 5,6 Week 6): Due 10/1
 
 ### Modeling
 | Name | Requirement | Evidence | Grade |

@@ -11,7 +11,6 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-
 @app.route('/aboutus/')
 def aboutus():
     return render_template("aboutus.html")
@@ -30,13 +29,13 @@ def binary():
     return render_template("binary.html", bits=8)
 
 
+@app.route('/rgb/', methods=["GET", "POST"])
+def rgb():
+    return render_template('rgb.html', images=image_data())
+
 @app.route('/lists/')
 def lists():
-    return render_template("lists.py")
-
-@app.route('/rgb/')
-def rgb():
-    return render_template('starter/rgb.html', images=image_data())
+    return render_template("lists.html")
 
 @app.route('/greetkatie', methods=['GET', 'POST'])
 def greetkatie():

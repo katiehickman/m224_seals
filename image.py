@@ -37,7 +37,7 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
             {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "katiergb.jpg"},
             {'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "banff.jpg"},
             {'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "derekrgb.jpeg"},
-            #{'source': "Kian's Phones", 'label': "Kian Pasokhi", 'file': "green-square-16.png"},
+            {'source': "Kian's Phones", 'label': "Kian Pasokhi", 'file': "kianplane2.jpg"},
 
         ]
 

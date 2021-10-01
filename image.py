@@ -1,5 +1,5 @@
-
-from PIL import Image, ImageDraw
+from os.path import join, dirname, realpath, exists
+from PIL import Image, ImageDraw, ImageFont
 import numpy
 import base64
 from io import BytesIO
@@ -16,6 +16,19 @@ def image_base64(img, img_type):
 def image_formatter(img, img_type):
     return "data:image/" + img_type + ";base64," + image_base64(img, img_type)
 
+def drawFile(file, img_dict):
+    if exists(join(dirname(realpath(__file__)), f"static/design/drawn_images/{img_dict['file']}")):
+        print('file exists using drawn')
+        return join(dirname(realpath(__file__)), f"static/design/drawn_images/{img_dict['file']}")
+    else:
+        print('making file')
+        new_img = Image.open(join(dirname(realpath(__file__)), file))
+        d1 = ImageDraw.Draw(new_img)
+        font = ImageFont.truetype(join(dirname(realpath(__file__)), 'static/Roboto-MediumItalic.ttf'), 20)
+        d1.text((0, 0), f"{img_dict['label']}", font=font, fill=(255, 0, 0))
+        new_img.save(join(dirname(realpath(__file__)), f"static/design/drawn_images/{img_dict['file']}"))
+        drawn_file = join(dirname(realpath(__file__)), f"static/design/drawn_images/{img_dict['file']}")
+        return drawn_file
 
 # color_data prepares a series of images for data analysis
 def image_data(path="static/design/", img_list=None):  # path of static images is defaulted
@@ -23,7 +36,7 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
         img_list = [
             {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "katiergb.jpg"},
             {'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "banff.jpg"},
-            #{'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "aboutusderek.jpeg"},
+            {'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "derekrgb.jpeg"},
             #{'source': "Kian's Phones", 'label': "Kian Pasokhi", 'file': "green-square-16.png"},
 
         ]
@@ -32,8 +45,9 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
     for img_dict in img_list:
         img_dict['path'] = '/' + path  # path for HTML access (frontend)
         file = path + img_dict['file']  # file with path for local access (backend)
+        print(file)
         # Python Image Library operations
-        img_reference = Image.open(file)  # PIL
+        img_reference = Image.open(drawFile(file, img_dict))  # PIL
         img_data = img_reference.getdata()  # Reference https://www.geeksforgeeks.org/python-pil-image-getdata/
         img_dict['format'] = img_reference.format
         img_dict['mode'] = img_reference.mode

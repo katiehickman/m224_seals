@@ -37,27 +37,30 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
             {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "katiergb.jpg"},
             {'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "banff.jpg"},
             {'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "derekrgb.jpeg"},
-            #{'source': "Kian's Phones", 'label': "Kian Pasokhi", 'file': "green-square-16.png"},
 
         ]
 
     # gather analysis data and meta data for each image, adding attributes to each row in table
     for img_dict in img_list:
-        img_dict['path'] = '/' + path  # path for HTML access (frontend)
-        file = path + img_dict['file']  # file with path for local access (backend)
+        img_dict['path'] = '/' + path
+        file = path + img_dict['file']
         print(file)
-        # Python Image Library operations
-        img_reference = Image.open(drawFile(file, img_dict))  # PIL
-        img_data = img_reference.getdata()  # Reference https://www.geeksforgeeks.org/python-pil-image-getdata/
+
+        img_reference = Image.open(drawFile(file, img_dict))
+        img_data = img_reference.getdata()  #  https://www.geeksforgeeks.org/python-pil-image-getdata/
         img_dict['format'] = img_reference.format
         img_dict['mode'] = img_reference.mode
         img_dict['size'] = img_reference.size
+
+
         # Conversion of original Image to Base64, a string format that serves HTML nicely
         img_dict['base64'] = image_formatter(img_reference, img_dict['format'])
+
         # Numpy is used to allow easy access to data of image, python list
         img_dict['data'] = numpy.array(img_data)
         img_dict['hex_array'] = []
         img_dict['binary_array'] = []
+
         # 'data' is a list of RGB data, the list is traversed and hex and binary lists are calculated and formatted
         for pixel in img_dict['data']:
             # hexadecimal conversions
@@ -67,6 +70,7 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
             # binary conversions
             bin_value = bin(pixel[0])[2:].zfill(8) + " " + bin(pixel[1])[2:].zfill(8) + " " + bin(pixel[2])[2:].zfill(8)
             img_dict['binary_array'].append(bin_value)
+
         # create gray scale of image, ref: https://www.geeksforgeeks.org/convert-a-numpy-array-to-an-image/
         img_dict['gray_data'] = []
         for pixel in img_dict['data']:
@@ -79,6 +83,7 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
         img_dict['base64_GRAY'] = image_formatter(img_reference, img_dict['format'])
         img_dict['hex_array_GRAY'] = []
         img_dict['binary_array_GRAY'] = []
+
         # 'data' is a list of RGB data, the list is traversed and hex and binary lists are calculated and formatted
         for pixel in img_dict['gray_data']:
             # hexadecimal conversions
@@ -88,5 +93,6 @@ def image_data(path="static/design/", img_list=None):  # path of static images i
             # binary conversions
             bin_value = bin(pixel[0])[2:].zfill(8) + " " + bin(pixel[1])[2:].zfill(8) + " " + bin(pixel[2])[2:].zfill(8)
             img_dict['binary_array_GRAY'].append(bin_value)
+
     return img_list  # list is returned with all the attributes for each image dictionary
 

@@ -5,7 +5,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <script>
-    var imageType = 0; // 0 is color, 1 is gray
+    var imageType = 0;
 
     function toggle() {
         if (imageType == 0) {
@@ -18,32 +18,6 @@
             imageType = 0;
         }
     }
-    // var color = {{ colored|safe }}
-    // var gray = {{ grayed|safe }}
-    // var imageType = 0; // 0 is color, 1 is gray
-
-    // function toggleColors(array) {
-    //     for (var i = 1; i <= array.length; i++) {
-    //         let id = "img" + i;
-    //         setImg(id, array[i-1]);
-    //     }
-    // }
-
-    // function toggle() {
-    //     if (imageType == 0) {
-    //         toggleColors(gray);
-    //         imageType = 1;
-    //     } else {
-    //         toggleColors(color);
-    //         imageType = 0;
-    //     }
-    // }
-
-    // function setImg(img, base64) {
-    //     // add button and rotate image from original to gray and back (toggle)
-    //     document.getElementById(img).src = base64;  //change img src to inner html on <p> tag
-    // }
-
 
 </script>
 
@@ -109,7 +83,7 @@
             </tbody>
         </table>
 
-    </div> <!-- end color -->
+    </div>
 
     <div class="row justify-content-md-center" id="grayscale">
         <table class="table">
@@ -166,7 +140,7 @@
             </tbody>
         </table>
 
-    </div> <!-- end gray -->
+    </div>
 </div>
 
 <script>

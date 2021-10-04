@@ -67,6 +67,13 @@
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 2</a>
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
 
+## Week 7 (Sprint 7,8 Week 7): Due 10/8
+| Name | Requirement | Evidence | Grade |
+| ---  | ---         | ---      | ---   |
+| Katie Hickman | Logic Gates<br>Multiply and Divide by 2<br> TPT Notes/College Board |<a>Ticket</a> <br> <a>Ticket</a><br> <a>Ticket</a> | -/6<br>-/2|
+| Shreya Ahuja | Logic Gates<br>Color Codes<br> TPT Notes/College Board | <a>Ticket</a><br><a>Ticket</a><br><a>Ticket</a> | -/6<br>-/2 |
+| Derek Bokelman | Signed Addition<br>Unsigned Addition and Subraction<br> TPT Notes/College Board | <a>Ticket</a><br><a>Ticket</a><br><a>Ticket</a> | -/6<br>-/2 | 
+| Kian Pasokhi | Signed Addition<br>Extend/Switch ASCII to Unicode<br> TPT Notes/College Board | <a>Ticket</a><br><a>Ticket</a><br><a>Ticket</a> | -/6<br>-/2 |
 
 ## Week 6 (Sprint 5,6 Week 6): Due 10/1
 

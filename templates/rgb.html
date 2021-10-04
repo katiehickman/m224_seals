@@ -4,6 +4,7 @@
 {% block meta %}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+<!-- function for grayscale -->
 <script>
     var imageType = 0;
 
@@ -25,7 +26,10 @@
 {% endblock %}
 
 {% block content %}
+
+<!-- regular base64 table -->
 <h1 class="text-center">RGB Values Within an Image</h1>
+<!-- button for grayscale toggle -->
 <button onclick="toggle()">Change to Grayscale!</button>
 <div class="container">
     <div class="row justify-content-md-center" id="colored">
@@ -85,6 +89,7 @@
 
     </div>
 
+    <!-- grayscale table (with _GRAY) -->
     <div class="row justify-content-md-center" id="grayscale">
         <table class="table">
             <thead>
@@ -106,6 +111,11 @@
                 </td>
                 <td>
                     <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64_GRAY}}" >
+                    <!-- Hack: create button (btn{{loop.index}} to  call java script function
+                               pass index to allow you to toggle images with hidden id's
+                               {{image.base64}}  original image
+                               {{image.base64_GRAY}}  gray scale image
+                            -->
                     <p hidden id="img_gray{{loop.index}}">{{image.base64_GRAY}}</p>
                 </td>
                 <td>
@@ -143,6 +153,7 @@
     </div>
 </div>
 
+<!-- function -->
 <script>
     $( document ).ready(function() {
         $('#grayscale').hide()

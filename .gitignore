@@ -6,3 +6,6 @@
 /.idea/vcs.xml
 /.idea/runConfigurations.xml
 /.idea/flask_portfolio_katie.iml
+git add *
+git stash
+git pull

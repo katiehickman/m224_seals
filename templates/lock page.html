@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lock Page</title>
+</head>
+<script>
+from PIL import Image, ImageDraw
+
+img = Image.open(lock.png')
+d1 = ImageDraw.Draw(img)
+d1.text((28, 36), "Random Password Generator", fill=(255, 0, 0))
+img.show()
+img.save("images/image_text.jpg")
+
+</script>
+</html>

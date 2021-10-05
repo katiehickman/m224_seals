@@ -67,16 +67,23 @@
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 2</a>
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
 
+## Week 7 (Sprint 7,8 Week 7): Due 10/8
+| Name | Requirement | Evidence | Grade |
+| ---  | ---         | ---      | ---   |
+| Katie Hickman | Logic Gates<br>Multiply and Divide by 2<br> TPT Notes/College Board |<a>Ticket</a> <br> <a>Ticket</a><br> <a>Ticket</a> | -/6<br>-/2|
+| Shreya Ahuja | Logic Gates<br>Color Codes<br> TPT Notes/College Board | <a>Ticket</a><br><a>Ticket</a><br><a>Ticket</a> | -/6<br>-/2 |
+| Derek Bokelman | Signed Addition<br>Unsigned Addition and Subraction<br> TPT Notes/College Board | <a>Ticket</a><br><a>Ticket</a><br><a>Ticket</a> | -/6<br>-/2 | 
+| Kian Pasokhi | Signed Addition<br>Extend/Switch ASCII to Unicode<br> TPT Notes/College Board | <a>Ticket</a><br><a>Ticket</a><br><a>Ticket</a> | -/6<br>-/2 |
 
 ## Week 6 (Sprint 5,6 Week 6): Due 10/1
 
 ### Modeling
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | Documentation<br>Frontend/Grayscale<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/53">Ticket</a> <br> <a href="https://github.com/katiehickman/flask_portfolio/issues/44">Ticket</a><br> <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/3 |
-| Shreya Ahuja | Documentation<br>New Development in an image<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/53">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/46">Ticket</a><br><a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/3 |
-| Derek Bokelman | Research/Study Sheet/Journals<br>Big O Notation<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/48">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/47">Ticket</a><br><a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/3 |
-| Kian Pasokhi | Research/Study Sheet/Journals<br>Write a message on an image<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/48">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/45">Ticket</a><br><a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/3 |
+| Katie Hickman | Documentation<br>Frontend/Grayscale<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/53">Ticket</a> <br> <a href="https://github.com/katiehickman/flask_portfolio/issues/44">Ticket</a><br> <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>3/3 |
+| Shreya Ahuja | Documentation<br>New Development in an image<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/53">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/46">Ticket</a><br><a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>3/3 |
+| Derek Bokelman | Research/Study Sheet/Journals<br>Write a message on an image<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/48">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/45">Ticket</a><br><a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/3 |
+| Kian Pasokhi | Research/Study Sheet/Journals<br>Big O Notation<br> TPT Notes/College Board | <a href="https://github.com/katiehickman/flask_portfolio/issues/48">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/47">Ticket</a><br><a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit?usp=sharing">Ticket</a> | -/2<br>-/1<br>-/3 |
 
 ## Week 5 (Sprint 5,6 Week 5): Due 9/25
 ### Notes for TOs and OOs

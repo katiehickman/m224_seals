@@ -38,7 +38,6 @@ def image_data(path="static/design/", img_list=None):  # info: path of static im
             {'source': "Katie's Phone", 'label': "Katie Hickman", 'file': "katiergb.jpg"},
             {'source': "Shreya's Phone", 'label': "Shreya Ahuja", 'file': "banff.jpg"},
             {'source': "Derek's Phone", 'label': "Derek Bokelman", 'file': "derekrgb.jpeg"},
-            {'source': "Kian's Phone", 'label': "Kian Pasokhi", 'file': "kianplane2.jpg"},
 
         ]
 
@@ -47,6 +46,7 @@ def image_data(path="static/design/", img_list=None):  # info: path of static im
         # to fix static images
         img_dict['path'] = '/' + path
         file = path + img_dict['file']
+        print(file)
 
         img_reference = Image.open(drawFile(file, img_dict))
         img_data = img_reference.getdata()  # https://www.geeksforgeeks.org/python-pil-image-getdata/
@@ -72,15 +72,15 @@ def image_data(path="static/design/", img_list=None):  # info: path of static im
             # binary conversions
             bin_value = bin(pixel[0])[2:].zfill(8) + " " + bin(pixel[1])[2:].zfill(8) + " " + bin(pixel[2])[2:].zfill(8)
             img_dict['binary_array'].append(bin_value)
-        # info: create gray scale of image, ref: https://www.geeksforgeeks.org/convert-a-numpy-array-to-an-image/
-
-        # for pixel in img_dict['data']: we changed this to a # to make it more efficient based on big O notation (deleting second loop)
+            # info: create gray scale of image, ref: https://www.geeksforgeeks.org/convert-a-numpy-array-to-an-image/
+            # for pixel in img_dict['data']: we changed this to a # to make it more efficient based on big O notation (deleting second loop)
             average = (pixel[0] + pixel[1] + pixel[2]) // 3
             if len(pixel) > 3:
                 img_dict['gray_data'].append((average, average, average, pixel[3]))
             else:
                 img_dict['gray_data'].append((average, average, average))
         #  end for loop for pixel
+        img_reference.putdata(img_dict['gray_data'])
         img_dict['base64_GRAY'] = image_formatter(img_reference, img_dict['format'])
 
 
@@ -92,10 +92,10 @@ def image_data(path="static/design/", img_list=None):  # info: path of static im
             # hexadecimal conversions
             hex_value = hex(pixel[0])[-2:] + hex(pixel[1])[-2:] + hex(pixel[2])[-2:]
             hex_value = hex_value.replace("x", "0")
-            img_dict['hex_array_GRAY'].append("#" + hex_value) # what specifically changes it
+            img_dict['hex_array_GRAY'].append("#" + hex_value)
             # binary conversions
             bin_value = bin(pixel[0])[2:].zfill(8) + " " + bin(pixel[1])[2:].zfill(8) + " " + bin(pixel[2])[2:].zfill(8)
-            img_dict['binary_array_GRAY'].append(bin_value) # what specifically changes it
+            img_dict['binary_array_GRAY'].append(bin_value)
 
 
     return img_list  # list is returned with all the attributes for each image dictionary

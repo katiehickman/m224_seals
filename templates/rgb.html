@@ -12,17 +12,17 @@
     //  document.getElementID("img_gray<n>").innerHTML
     //  help: https://www.geeksforgeeks.org/how-to-change-the-src-attribute-of-an-img-element-in-javascript-jquery/
     <!-- used var instead to toggle grayscale values and dynamically change rgb values -->
-    <!-- var is defining a variable -->
-    var imageType = 0;
+    <!-- var is defining a variable and 2 is assigned to colorscale and 1 is assigned to grayscale-->
+    var imageType = 2;
     function toggle() {
-        if (imageType == 0) {
+        if (imageType == 2) {
             $('#colorscale').hide()
             $('#grayscale').show()
             imageType = 1; <!-- allows for toggling back and forth -->
         } else {
             $('#grayscale').hide()
             $('#colorscale').show()
-            imageType = 0; <!-- allows for toggling back and forth -->
+            imageType = 2; <!-- allows for toggling back and forth -->
         }
     }
 
@@ -36,9 +36,8 @@
 <!-- regular base64 table -->
 <h1 class="text-center">RGB Values Within an Image</h1>
 <!-- button for grayscale toggle -->
-<button onclick="toggle()">Change to Grayscale and back!</button>
 <div class="container">
-    <div class="row justify-content-md-center" id="colorscale"> <!-- "id" corresponds to $('#colored').show/hide() -->
+    <div class="row justify-content-md-center" id="colorscale"> <!-- "id" corresponds to $('#colorscale').show/hide() -->
         <table class="table">
             <thead>
             <tr>
@@ -59,8 +58,9 @@
                 </td>
                 <td>
                     <!-- original image part -->
-                    <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}" >
+                    <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}">
                     <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>
+                    <button onclick="toggle()">Grayscale!</button>
                 </td>
                 <td>
                     <div class="overflow-auto" style="height: 256px">
@@ -118,13 +118,14 @@
                 </td>
                 <td>
                     <!-- gray scale image part -->
-                    <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64_GRAY}}" >
+                    <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64_GRAY}}">
                     <!-- Hack: create button (btn{{loop.index}} to  call javascript function
                                pass index to allow you to toggle images with hidden id's
                                {{image.base64}}  original image
                                {{image.base64_GRAY}}  gray scale image
                             -->
                     <p hidden id="img_gray{{loop.index}}">{{image.base64_GRAY}}</p>
+                    <button onclick="toggle()">Back to original :)</button>
                 </td>
                 <td>
                     <div class="overflow-auto" style="height: 256px">
@@ -162,7 +163,7 @@
 </div>
 
 <script>
-    <!-- end function for grayscale -->
+    <!-- end of function for grayscale -->
     $( document ).ready(function() {
         $('#grayscale').hide()
     });

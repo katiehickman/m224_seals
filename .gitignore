@@ -6,3 +6,4 @@
 /.idea/vcs.xml
 /.idea/runConfigurations.xml
 /.idea/flask_portfolio_katie.iml
+git stash push --include-untracked

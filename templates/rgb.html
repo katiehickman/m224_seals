@@ -2,21 +2,27 @@
 {% include "layouts/navbar.html" %}
 
 {% block meta %}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<!-- bootstrap found in Youtube video about ajax https://www.youtube.com/watch?v=MG9itGX1hD0 that allows var function to work and https://www.w3schools.com/jquERy/default.asp -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
 
 <!-- function for grayscale -->
 <script>
+    // Hack: add java script function to toggle image from original to gray and back (toggle)
+    //  document.getElementById("img<n>").src
+    //  document.getElementID("img_gray<n>").innerHTML
+    //  help: https://www.geeksforgeeks.org/how-to-change-the-src-attribute-of-an-img-element-in-javascript-jquery/
+    <!-- used var instead to toggle grayscale values and dynamically change rgb values -->
+    <!-- var is defining a variable -->
     var imageType = 0;
-
     function toggle() {
         if (imageType == 0) {
-            $('#colored').hide()
+            $('#colorscale').hide()
             $('#grayscale').show()
-            imageType = 1;
+            imageType = 1; <!-- allows for toggling back and forth -->
         } else {
             $('#grayscale').hide()
-            $('#colored').show()
-            imageType = 0;
+            $('#colorscale').show()
+            imageType = 0; <!-- allows for toggling back and forth -->
         }
     }
 
@@ -30,9 +36,9 @@
 <!-- regular base64 table -->
 <h1 class="text-center">RGB Values Within an Image</h1>
 <!-- button for grayscale toggle -->
-<button onclick="toggle()">Change to Grayscale!</button>
+<button onclick="toggle()">Change to Grayscale and back!</button>
 <div class="container">
-    <div class="row justify-content-md-center" id="colored">
+    <div class="row justify-content-md-center" id="colorscale"> <!-- "id" corresponds to $('#colored').show/hide() -->
         <table class="table">
             <thead>
             <tr>
@@ -52,6 +58,7 @@
                     <div>{{image.source}}</div>
                 </td>
                 <td>
+                    <!-- original image part -->
                     <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64}}" >
                     <p hidden id="img_orig{{loop.index}}">{{image.base64}}</p>
                 </td>
@@ -89,8 +96,8 @@
 
     </div>
 
-    <!-- grayscale table (with _GRAY) -->
-    <div class="row justify-content-md-center" id="grayscale">
+    <!-- grayscale table  -->
+    <div class="row justify-content-md-center" id="grayscale"> <!-- corresponds to $('#grayscale').show/hide() -->
         <table class="table">
             <thead>
             <tr>
@@ -110,8 +117,9 @@
                     <div>{{image.source}}</div>
                 </td>
                 <td>
+                    <!-- gray scale image part -->
                     <img class="img-responsive py-3" id=img{{loop.index}} alt="" width="256" height="Auto" src="{{image.base64_GRAY}}" >
-                    <!-- Hack: create button (btn{{loop.index}} to  call java script function
+                    <!-- Hack: create button (btn{{loop.index}} to  call javascript function
                                pass index to allow you to toggle images with hidden id's
                                {{image.base64}}  original image
                                {{image.base64_GRAY}}  gray scale image
@@ -130,7 +138,7 @@
                             </tr>
                             </thead>
                             <tbody>
-                            {% for row in image.gray_data[:256+1] %}
+                            {% for row in image.gray_data[:256+1] %} <!-- img.gray_data instead of img.data -->
                             <tr>
                                 <td>{{loop.index}}</td>
                                 <td>{{row}}</td>
@@ -153,8 +161,8 @@
     </div>
 </div>
 
-<!-- function -->
 <script>
+    <!-- end function for grayscale -->
     $( document ).ready(function() {
         $('#grayscale').hide()
     });

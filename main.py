@@ -25,7 +25,7 @@ def binary():
         bits = request.form.get("bits")
         if len(bits) != 0:  # input field has content
             return render_template("binary.html", bits=int(bits))
-        # starting and empty input default o
+        # starting and empty input default
     return render_template("binary.html", bits=8)
 
 

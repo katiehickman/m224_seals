@@ -6,3 +6,5 @@
 /.idea/vcs.xml
 /.idea/runConfigurations.xml
 /.idea/flask_portfolio_katie.iml
+git checkout HEAD^ file/to/overwrite
+git pull

@@ -1,9 +1,3 @@
-
-from flask import Flask, render_template
-
-def lists():
-    return render_template("lists.html")
-
 app = Flask(__name__)
 
 # Challenge 1
@@ -36,8 +30,3 @@ averageList[5] += 3
 average = (averageList[0] + averageList[1] + averageList[2] + averageList[3] + averageList[4] + averageList[5])/6
 
 print(average)
-
-
-
-if __name__ == "__main__":
-    app.run(debug=True)

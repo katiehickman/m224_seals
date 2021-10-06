@@ -19,6 +19,10 @@ def aboutus():
 def minilab():
     return render_template("minilab.html")
 
+@app.route('/logicgate/')
+def logicgate():
+    return render_template("logicgate.html")
+
 @app.route('/binary/', methods=['GET','POST'])
 def binary():
     if request.form:
@@ -32,10 +36,6 @@ def binary():
 @app.route('/rgb/', methods=["GET", "POST"])
 def rgb():
     return render_template('rgb.html', images=image_data())
-
-@app.route('/lists/')
-def lists():
-    return render_template("lists.html")
 
 @app.route('/greetkatie', methods=['GET', 'POST'])
 def greetkatie():

@@ -123,10 +123,10 @@
         let binary = getBits();
         let decimal = parseInt(binary, 2);
         if (n > 0) {
-            decimal = decimal << 1; // shift right
+            decimal = decimal << 1; // shift left
         }
         if (n < 0) {
-            decimal = decimal >> 1; // shift left
+            decimal = decimal >> 1; // shift right
         }
         // convert the result back to binary
         binary = decimal_2_base(decimal, 2);
@@ -165,6 +165,8 @@
             <table class="table">
                 <tr id="table">
                     <p style="text-align: center; font-size: larger; font-family: Baskerville">
+                        <!-- added left shift label  -->
+                    <th>Shift Left(x2)</th>
                     <th>Plus</th>
                     <th>Binary</th>
                     <th>Octal</th>
@@ -172,13 +174,14 @@
                     <th>Decimal</th>
                     <!-- Hack: display ASCII label for printable character(s)  -->
                     <th>ASCII</th>
-                    <!-- added shift labels  -->
-                    <th>Shift Left/Divide by 2</th>
-                    <th>Shift Right/Multiply by 2</th>
                     <th>Minus</th>
+                    <!-- added right shift label  -->
+                    <th>Shift Right(/2)</th>
                     </p>
                 </tr>
                 <tr>
+                    <!-- added left shift button  -->
+                    <td><button type="button" id="shift2" onclick="shift(1)"><<</button></td>
                     <td><button type="button" id="add1" onclick="add(1)">+1</button></td>
                     <td id="binary">00000000</td>
                     <td id="octal">0</td>
@@ -186,10 +189,9 @@
                     <td id="decimal">0</td>
                     <!-- Hack: display ASCII printable character(s)  -->
                     <td id="ascii">0</td>
-                    <!-- added shift buttons  -->
-                    <td><button type="button" id="shift1" onclick="shift(-1)">>></button></td>
-                    <td><button type="button" id="shift2" onclick="shift(1)"><<</button></td>
                     <td><button type="button" id="sub1" onclick="add(-1)">-1</button></td>
+                    <!-- added right shift button  -->
+                    <td><button type="button" id="shift1" onclick="shift(-1)">>></button></td>
 
                 </tr>
             </table>

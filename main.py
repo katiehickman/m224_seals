@@ -23,6 +23,10 @@ def minilab():
 def logicgate():
     return render_template("logicgate.html")
 
+@app.route('/colorcodes/')
+def colorcodes():
+    return render_template("colorcodes.html")
+
 @app.route('/binary/', methods=['GET','POST'])
 def binary():
     if request.form:

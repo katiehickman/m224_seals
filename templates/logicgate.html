@@ -1,3 +1,97 @@
 {% include "layouts/navbar.html" %}
-<title>Logic Gate Lab</title>
+<!DOCTYPE html>
 
+{% set imageList = ["andlogicgate.png", "nandlogicgate.png", "norlogicgate.png", "notlogicgate.png", "orlogicgate.png", "xorlogicgate.png"]  %}
+{% set textList = ["And Gate", "Nand Gate", "Or Gate", "Nor Gate", "Xor Gate", "Inverter/Not Gate"] %}
+{% set result = ["0", "1", "0", "1", "0", "1"]  %}
+{% set img = ["and1", "nand1", "or1", "nor1", "xor1", "not1"] %}
+{% set textImg = ["and", "nand", "or", "nor", "xor", "not"] %}
+
+<title>Logic Gate Lab</title>
+{% block meta %}
+<script>
+    function myFunction(){
+        const x = document.getElementById("checkbox1")
+        const y = document.getElementById("checkbox2")
+        if (x.checked && y.checked){ //both
+            document.getElementById("and").innerHTML = "1";
+        }
+        else { //none or one
+            document.getElementById("and").innerHTML = "0";
+        }
+        if (!(x.checked && y.checked)){ //none or one
+            document.getElementById("nand").innerHTML = "1";
+        }
+        else { //and
+            document.getElementById("nand").innerHTML = "0";
+        }
+        if (x.checked || y.checked){ //x or y
+            document.getElementById("or").innerHTML = "1";
+        }
+        else { //none
+            document.getElementById("or").innerHTML = "0";
+        }
+        if (!(x.checked || y.checked)){ //none
+            document.getElementById("nor").innerHTML = "1";
+        }
+        else { //one or both
+            document.getElementById("nor").innerHTML = "0";
+        }
+        if ( ( x.checked && !y.checked ) || ( !x.checked && y.checked ) ){ //one not both
+            document.getElementById("xor").innerHTML = "1";
+        }
+        else { //none or both
+            document.getElementById("xor").innerHTML = "0";
+        }
+        if (!x.checked){
+            document.getElementById("not").innerHTML = "1";
+        }
+        else {
+            document.getElementById("not").innerHTML = "0";
+        }
+    }
+</script>
+{% endblock %}
+
+{% block body %}
+<h1 class="text-center">Logic Gate Lab</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-3">
+            <h2 class="text-left">Inputs</h2>
+            <form name="form" method="POST">
+                <label>
+                    <span>a</span>
+                    <input type="checkbox" name="a" class="inline checkbox" id="checkbox1" value="1">
+                </label>
+
+                <label>
+                    <span>b</span>
+                    <input type="checkbox" name="b" class="incline checkbox" id="checkbox2" value="1">
+                </label>
+
+                <input type="button" onclick="myFunction()" value="Submit">
+            </form>
+        </div>
+        <div class="col-9">
+            <h2 class="text-left">Logic Gates</h2>
+            <table>
+                <tr>
+                    <th>Symbol</th>
+                    <th>Logic Gate</th>
+                    <th>Result</th>
+                </tr>
+                {% for item in imageList %}
+                <tr>
+                    <td class="col-3">
+                        <img class="img-responsive py-3" id="{{ img[loop.index0] }}" alt="" width="256" height="Auto" src="/static/assets/{{ item }}" >
+                    </td>
+                    <td class="col-3"> {{ textList[loop.index0] }}</td>
+                    <td id="{{ textImg[loop.index0] }}" class="col-3">{{ result[loop.index0] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+</div>
+{% endblock %}

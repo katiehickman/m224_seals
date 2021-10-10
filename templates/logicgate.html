@@ -1,5 +1,7 @@
 {% include "layouts/navbar.html" %}
 <!DOCTYPE html>
+<br>
+<title>Logic Gate Lab</title>
 
 {% set imageList = ["andlogicgate.png", "nandlogicgate.png", "norlogicgate.png", "notlogicgate.png", "orlogicgate.png", "xorlogicgate.png"]  %}
 {% set textList = ["And Gate", "Nand Gate", "Or Gate", "Nor Gate", "Xor Gate", "Inverter/Not Gate"] %}
@@ -7,7 +9,7 @@
 {% set img = ["and1", "nand1", "or1", "nor1", "xor1", "not1"] %}
 {% set textImg = ["and", "nand", "or", "nor", "xor", "not"] %}
 
-<title>Logic Gate Lab</title>
+
 {% block meta %}
 <script>
     function myFunction(){
@@ -54,11 +56,11 @@
 {% endblock %}
 
 {% block body %}
-<h1 class="text-center">Logic Gate Lab</h1>
+<h1 class="text-center" style="font-family:Baskerville">Logic Gate Lab</h1>
 <div class="container-fluid">
     <div class="row">
         <div class="col-3">
-            <h2 class="text-left">Inputs</h2>
+            <h2 class="text-left" style="font-size: x-large; font-family: Baskerville">Inputs</h2>
             <form name="form" method="POST">
                 <label>
                     <span>a</span>
@@ -70,16 +72,16 @@
                     <input type="checkbox" name="b" class="incline checkbox" id="checkbox2" value="1">
                 </label>
 
-                <input type="button" onclick="myFunction()" value="Submit">
+                <input type="button" style="font-family: Baskerville" onclick="myFunction()" value="Submit">
             </form>
         </div>
         <div class="col-9">
-            <h2 class="text-left">Logic Gates</h2>
+            <h2 class="text-left" style="font-size: x-large; font-family:Baskerville">Logic Gates</h2>
             <table>
                 <tr>
-                    <th>Symbol</th>
-                    <th>Logic Gate</th>
-                    <th>Result</th>
+                    <th style="font-family: Baskerville">Symbol</th>
+                    <th style="font-family: Baskerville">Logic Gate</th>
+                    <th style="font-family: Baskerville" >Result</th>
                 </tr>
                 {% for item in imageList %}
                 <tr>

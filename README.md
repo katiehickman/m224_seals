@@ -69,6 +69,8 @@
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 2</a>
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
 
+<br>
+
 ## Week 8 (Sprint 7,8 Week 8): Due 10/18
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |

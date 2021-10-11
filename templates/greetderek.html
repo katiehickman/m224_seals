@@ -3,8 +3,13 @@
 <title>Greet Derek</title>
 <div class="center-block" style="margin: 2% 5% 5%; text-align:left; font-family: Baskerville; font-size: large">
     <div class="col-12">
-        <p>Hello, {{name}}!</p>
+        <p id="wave"> Hello, {{name}}! </p>
     </div>
+    <script>
+    var targetForWave = document.getElementById("wave");
+    targetForWave.textContent += String.fromCodePoint(0x1F44B);
+</script>
+
     <div class="col-12">
         <form action="/greetderek" id="greetderek" method="POST" >
             <label for="name">Type a greeting name?</label>
@@ -13,11 +18,9 @@
         </form>
     </div>
     <div class="col-12">
-
     </div>
 </div>
 </body>
-
 <p>
     <img alt="" src="/static/design/derekbuildings.jpeg"
          style="height: 300px; width: 350px; margin-left: 100px" id="imgClickAndChange" onclick="changeImage()"  />
@@ -32,4 +35,8 @@
         }
 
     }
+
 </script>
+
+
+

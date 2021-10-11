@@ -162,20 +162,23 @@
 
         <div class="col-12">
             <table class="table">
-                <tr>
-                    {% for i in range(BITS) %}
-                    <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
-                        <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
-                    </td>
-                    {% endfor %}
-                </tr>
-                <tr>
-                    {% for i in range(BITS) %}
-                    <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
-                    {% endfor %}
-                </tr>
+                {% for i in range(BITS) %}
+                    {% if i % 8 == 0 %} <!-- wrap -->
+                        <tr>
+                    {% endif %}
+                <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
+                <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
+                    <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
+                </td>
+                {% if i + 1 % 8 == 0 or i == BITS %} <!-- wrap -->
+                    </tr>
+                {% endif %}
+                {% endfor %}
             </table>
         </div>
+
+    </div>
+</div>
 
     </div>
 </div>

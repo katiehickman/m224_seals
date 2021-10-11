@@ -7,21 +7,21 @@
 <h1 class="text-center" style="font-family:Baskerville">Color Codes </h1><br>
 <label>
     <span>Red   (0-255)</span>
-    <input type="text" name="Red" id="red_value" value="">
+    <input type="number"  name="Red" id="red_value" min="0" max="255" value="">
 </label>
 <br>
 <label>
     <span>Green (0-255)</span>
-    <input type="text" name="Green" id="green_value" value="">
+    <input type="number" name="Green" id="green_value" min="0" max="255" value="">
 </label>
 <br>
 <label>
     <span>Blue  (0-255)</span>
-    <input type="text" name="Blue" id="blue_value" value="">
+    <input type="number" name="Blue" id="blue_value" min="0" max="255" value="">
 </label>
 <br>
 <button onclick="showColor()">Submit!</button>
-
+<p id="error_msg"></p>
 <br>
 <br>
 <hr>
@@ -50,11 +50,30 @@
 
         return "#" + r1 + g1 + b1;
     }
+
+    function checkValues(r,g,b) {
+        let error = false;
+        if(r==NaN || r<0 || r>255)
+            error = true;
+        if(g==NaN || g<0 || g>255)
+            error = true;
+        if(b==NaN || b<0 || b>255)
+            error = true;
+
+        if(error == true) {
+            document.getElementById("error_msg").innerHTML = "Please enter value between 0-255";
+            return false;
+        }
+        return true;
+    }
+
 function showColor () {
     var red = parseInt(document.getElementById("red_value").value);
     var green = parseInt(document.getElementById("green_value").value);
     var blue = parseInt(document.getElementById("blue_value").value);
 
+    if (checkValues(red, green, blue) == false)
+        return;
 
     let code = RGBToHex(red, green, blue);
     document.getElementById("color").style.backgroundColor = code;

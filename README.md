@@ -81,8 +81,7 @@
 
 ## Week 7 (Sprint 7,8 Week 7): Due 10/12
 ### Runtime Video
-<br>
-<br>
+https://drive.google.com/file/d/1s6W897jeldtNj7e-naQcw8d7hYbdbJyn/view?usp=sharing
 
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |

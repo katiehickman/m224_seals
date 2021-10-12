@@ -83,10 +83,12 @@
 ### Runtime Video
 https://drive.google.com/file/d/1s6W897jeldtNj7e-naQcw8d7hYbdbJyn/view?usp=sharing
 
+<a href="https://github.com/katiehickman/flask_portfolio/issues/55">Grading Ticket</a><br>
+
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | Logic Gates<br>Multiply and Divide by 2<br> Units 3.5 and 3.6 |<a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/55">Ticket</a><br> <a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | -/6<br>-/2|
-| Shreya Ahuja | Logic Gates<br>Color Codes<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/57">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | -/6<br>-/2 |
+| Katie Hickman | Logic Gates<br>Multiply and Divide by 2<br> Units 3.5 and 3.6 |<a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/55">Ticket</a><br> <a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | 6/6<br>2/2|
+| Shreya Ahuja | Logic Gates<br>Color Codes<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/57">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | 6/6<br>2/2 |
 | Derek Bokelman | Signed Addition<br>Unsigned Addition and Subraction<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/60">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/58">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/62">Ticket</a> | -/6<br>-/2 | 
 | Kian Pasokhi | Signed Addition<br>Extend/Switch ASCII to Unicode<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/60">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/56">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/62">Ticket</a> | -/6<br>-/2 |
 

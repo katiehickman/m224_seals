@@ -23,6 +23,7 @@
 {% block meta %}
 <br>
 <title>Binary Lab</title>
+<body style="background-color: #FCEEED;">
 <script>
     const BITS = '{{ BITS }}'; let max = '{{ MAX }}'; let MAX = parseInt(max, 10);
     // return string with current value of each bit
@@ -146,6 +147,7 @@
             }
         }
     }
+
 </script>
 {% endblock %}
 
@@ -201,15 +203,15 @@
         <div class="col-12">
             <table class="table">
                 {% for i in range(BITS) %}
-                    {% if i % 8 == 0 %} <!-- wrap -->
-                        <tr>
+                {% if i % 8 == 0 %} <!-- wrap -->
+                <tr>
                     {% endif %}
-                <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
-                <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
-                    <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
-                </td>
-                {% if i + 1 % 8 == 0 or i == BITS %} <!-- wrap -->
-                    </tr>
+                    <td><input type='text' id='digit{{i}}' Value="0" size="1" readonly></td>
+                    <td><img class="img-responsive py-3" id="bulb{{i}}" src="{{ imgBulbOff }}" alt="" width="40" height="Auto">
+                        <button type="button" id="butt{{i}}" onclick="toggleBit('{{i}}')">{{ msgTurnOn }}</button>
+                    </td>
+                    {% if i + 1 % 8 == 0 or i == BITS %} <!-- wrap -->
+                </tr>
                 {% endif %}
                 {% endfor %}
             </table>
@@ -218,8 +220,8 @@
     </div>
 </div>
 
-    </div>
-</div>
+
+
 {% endblock %}
 {% block background %}
 {% endblock %}

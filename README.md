@@ -83,7 +83,7 @@
 ### Runtime Video
 https://drive.google.com/file/d/1s6W897jeldtNj7e-naQcw8d7hYbdbJyn/view?usp=sharing
 
-<a href="https://github.com/katiehickman/flask_portfolio/issues/55">Grading Ticket</a><br>
+<a href="https://github.com/katiehickman/flask_portfolio/issues/68">Grading Ticket</a><br>
 
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |

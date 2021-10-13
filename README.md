@@ -61,7 +61,7 @@
 
 ## Table of Contents
 - <a href="https://github.com/katiehickman/flask_portfolio#week-8-sprint-78-week-8-due-1018">Week 8</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-7-sprint-78-week-7-due-108">Week 7</a>
+- <a href="https://github.com/katiehickman/flask_portfolio#week-7-sprint-78-week-7-due-1012">Week 7</a>
 - <a href="https://github.com/katiehickman/flask_portfolio#week-6-sprint-56-week-6-due-101">Week 6</a>
 - <a href="https://github.com/katiehickman/flask_portfolio#week-5-sprint-56-week-5-due-925">Week 5</a>
 - <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 4</a>
@@ -74,18 +74,23 @@
 ## Week 8 (Sprint 7,8 Week 8): Due 10/18
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Derek Bokelman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Kian Pasokhi | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Derek Bokelman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/65">Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Kian Pasokhi | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/65">Ticket</a> | -/5<br>-/0.25<br>-/3|
 
 ## Week 7 (Sprint 7,8 Week 7): Due 10/12
+### Runtime Video
+https://drive.google.com/file/d/1s6W897jeldtNj7e-naQcw8d7hYbdbJyn/view?usp=sharing
+
+<a href="https://github.com/katiehickman/flask_portfolio/issues/68">Grading Ticket</a><br>
+
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | Logic Gates<br>Multiply and Divide by 2<br> Units 3.5 and 3.6 |<a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/55">Ticket</a><br> <a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | -/6<br>-/2|
-| Shreya Ahuja | Logic Gates<br>Color Codes<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/57">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | -/6<br>-/2 |
+| Katie Hickman | Logic Gates<br>Multiply and Divide by 2<br> Units 3.5 and 3.6 |<a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/55">Ticket</a><br> <a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | 6/6<br>2/2|
+| Shreya Ahuja | Logic Gates<br>Color Codes<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/59">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/57">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/61">Ticket</a> | 6/6<br>2/2 |
 | Derek Bokelman | Signed Addition<br>Unsigned Addition and Subraction<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/60">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/58">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/62">Ticket</a> | -/6<br>-/2 | 
-| Kian Pasokhi | Signed Addition<br>Extend/Switch ASCII to Unicode<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/60">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/56">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/62">Ticket</a> | -/6<br>-/2 |
+| Kian Pasokhi | Signed Addition<br>Extend/Switch ASCII to Unicode<br> Units 3.5 and 3.6 | <a href="https://github.com/katiehickman/flask_portfolio/issues/60">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/56">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/62">Ticket</a> | 5.5/6<br>2/2 |
 
 ## Week 6 (Sprint 5,6 Week 6): Due 10/1
 

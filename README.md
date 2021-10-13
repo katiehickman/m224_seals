@@ -1,11 +1,16 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
-## M224 Seals Contributers
+## M224 Seals 
   <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
   <br>
   <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
   <br>
   <br>
+
+### Website Description
+
+Our website is a random password generator that will have specific customization features. These features include Special Characters, Length, Capital Letters, and Numbers. 
+<br>
 <table>
   <tr>
     <th> </th>

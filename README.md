@@ -74,10 +74,10 @@
 ## Week 8 (Sprint 7,8 Week 8): Due 10/18
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Derek Bokelman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Kian Pasokhi | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a>Ticket</a><br><a >Ticket</a><br> <a>Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Derek Bokelman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/65">Ticket</a> | -/5<br>-/0.25<br>-/3|
+| Kian Pasokhi | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/flask_portfolio/issues/66">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/67">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/65">Ticket</a> | -/5<br>-/0.25<br>-/3|
 
 ## Week 7 (Sprint 7,8 Week 7): Due 10/12
 ### Runtime Video

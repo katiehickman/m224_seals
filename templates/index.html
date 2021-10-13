@@ -13,24 +13,65 @@
     <br>
     <img src=static/design/lock.png width="80" height="80" align="left" style="margin-left: 300px">
     <img src=static/design/lock.png width="80" height="80" align="right" style="margin-right: 300px">
+<p style="font-size: xxx-large; text-align: center;"> Random Password Generator</p>
+<br>
+<br>
+<br>
+<br>
 
-    <p style="font-size: xxx-large; text-align: center;"> Random Password Generator</p>
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-3">
+            <h2 class="text" style="font-size: x-large; font-family: Baskerville">Requirements</h2>
+            <form name="form" method="POST">
+                <label>
+                    <span style="font-size: larger; font-family: Baskerville">Special Characters</span>
+                    <input type="checkbox" name="a" class="inline checkbox" id="checkbox1" value="1">
+                </label>
+                <br>
+                <label>
+                    <span style="font-size: larger; font-family: Baskerville">Numbers</span>
+                    <input type="checkbox" name="b" class="incline checkbox" id="checkbox2" value="1">
+                </label>
+                <br>
+                <label>
+                    <span style="font-size: larger; font-family: Baskerville">Capital Letters</span>
+                    <input type="checkbox" name="c" class="incline checkbox" id="checkbox3" value="1">
+                </label>
+                <br>
+                <form action="/index/" id="length" method="POST" >
+                    <label for="length" style="font-family: Baskerville; font-size: larger">Enter Length</label>
+                    <input name="length">
+                </form>
+
+                <input type="button" style="font-family: Baskerville; font-size: larger" onclick="myFunction()" value="Submit">
+            </form>
+        </div>
+
 
     <p style="font-family: Baskerville; font-size: x-large; text-align: center;">
-        <a href="https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing">Wireframe/Brainwrite</a>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
         <br>
         <br>
         <img src=static/design/curvy.png width="350" height="350" align="left" style="margin-right: 0px">
 
-
-
         </style>
-        </head>
+
 
         </html>
+
+     <script>
+         function myFunction(){
+             const a = document.getElementById("checkbox1")
+             const b = document.getElementById("checkbox2")
+             const c = document.getElementById("checkbox3")
+             if (a.checked && b.checked && c.checked){ //all
+                 document.getElementById("all").innerHTML = "";
+             }
+             else { //and
+                 document.getElementById("all").innerHTML = "";
+             }
+         }
+
+     </script>
+        </head>

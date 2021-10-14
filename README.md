@@ -6,6 +6,9 @@
   <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
   <br>
   <br>
+ <td><a href="https://github.com/katiehickman/flask_portfolio">Old Repository (Prior to 10/13)</a></td>
+ <br>
+ <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Old Scrum Board (Prior to 10/13)</a></td>
 
 ### Website Description
 

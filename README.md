@@ -3,7 +3,7 @@
 ## M224 Seals 
   <td><a href="https://github.com/katiehickman/m224_seals/projects/1">Seals Scrum Board</a></td>  
   <br>
-  <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
+  <td><a href="https://github.com/katiehickman/m224_seals/graphs/contributors">Contributors Tab</a></td>
   <br>
   <br>
  <td><a href="https://github.com/katiehickman/flask_portfolio">Old Repository (Prior to 10/13)</a></td>
@@ -32,23 +32,23 @@ Our website is a random password generator that will have specific customization
   </tr>
   <tr>
     <td>Tasks</td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/katiehickman>Katie's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/shreya-ahujaa>Shreya's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/kiannp44>Kian's Tasks</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/issues/assigned/DerekBokelman>Derek's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/issues/assigned/katiehickman>Katie's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/issues/assigned/shreya-ahujaa>Shreya's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/issues/assigned/kiannp44>Kian's Tasks</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/issues/assigned/DerekBokelman>Derek's Tasks</a></td>
    <tr>
     <td>Commits</td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=katiehickman>Katie's Commits</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=shreya-ahujaa>Shreya's Commits</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=kiannp44>Kian's Commits</a></td>
-    <td><a href=https://github.com/katiehickman/flask_portfolio/commits?author=DerekBokelman>Derek's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/commits?author=katiehickman>Katie's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/commits?author=shreya-ahujaa>Shreya's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/commits?author=kiannp44>Kian's Commits</a></td>
+    <td><a href=https://github.com/katiehickman/m224_seals/commits?author=DerekBokelman>Derek's Commits</a></td>
   </tr>
    <tr>
     <td>Scrum Board</td>
-     <td><a href= https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akatiehickman>Scrum Board</a> </td>
-     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Ashreya-ahujaa>Scrum Board</a> </td>
-     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Akiannp44>Scrum Board</a> </td>
-     <td><a href=https://github.com/katiehickman/flask_portfolio/projects/4?card_filter_query=assignee%3Aderekbokelman>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/m224_seals/projects/1?card_filter_query=assignee%3Akatiehickman>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/m224_seals/projects/1?card_filter_query=assignee%3Ashreya-ahujaa>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/m224_seals/projects/1?card_filter_query=assignee%3Akiannp44>Scrum Board</a> </td>
+     <td><a href=https://github.com/katiehickman/m224_seals/projects/1?card_filter_query=assignee%3Aderekbokelman>Scrum Board</a> </td>
   </tr>
    <tr>
     <td>Profile</td>

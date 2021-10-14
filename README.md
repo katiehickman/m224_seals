@@ -1,7 +1,7 @@
 
 # [Random Password Generator](https://docs.google.com/presentation/d/1q9A-ywkOGxOOmqj66LM6M_5vplafsboqpDvt1ARVFTE/edit?usp=sharing)
 ## M224 Seals 
-  <td><a href="https://github.com/katiehickman/flask_portfolio/projects/4">Seals Scrum Board</a></td>  
+  <td><a href="https://github.com/katiehickman/m224_seals/projects/1">Seals Scrum Board</a></td>  
   <br>
   <td><a href="https://github.com/katiehickman/flask_portfolio/graphs/contributors">Contributors Tab</a></td>
   <br>
@@ -66,14 +66,14 @@ Our website is a random password generator that will have specific customization
 <br>
 
 ## Table of Contents
-- <a href="https://github.com/katiehickman/flask_portfolio#week-8-sprint-78-week-8-due-1018">Week 8</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-7-sprint-78-week-7-due-1012">Week 7</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-6-sprint-56-week-6-due-101">Week 6</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-5-sprint-56-week-5-due-925">Week 5</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 4</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 3</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 2</a>
-- <a href="https://github.com/katiehickman/flask_portfolio#week-four-sprint-34-week-3-due-917">Week 1</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-8-sprint-78-week-8-due-1018">Week 8</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-7-sprint-78-week-7-due-1012">Week 7</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-6-sprint-56-week-6-due-101">Week 6</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-5-sprint-56-week-5-due-925">Week 5</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 4</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 3</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 2</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 1</a>
 
 <br>
 

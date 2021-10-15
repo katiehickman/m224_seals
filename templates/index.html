@@ -21,9 +21,28 @@
 
 
 <h2 class="text" style="font-size: x-large; font-family: Baskerville">Generated Password:
-    <script> document.write(pass);
+    <script>
+    var password = ;
+    document.write(password);
 </script>
 </h2>
+<body>
+<textarea id="textId" id="password">(password)</textarea>
+<button id="copyBtn">Copy</button>
+<script>
+      document.getElementById("copyBtn")
+        .onclick = function() {
+          let text = document.getElementById("textId").value;
+          navigator.clipboard.writeText(text)
+            .then(() => {
+              alert('Text copied to clipboard');
+            })
+            .catch(err => {
+              alert('Error in copying text: ', err);
+            });
+        }
+    </script>
+</body>
 
 
 <div class="container-fluid">

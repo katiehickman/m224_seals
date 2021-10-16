@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% include "layouts/navbar.html" %}
+
+
+<div class="container">
+    <div class="center-block" style="margin: 2% 5% 5%;font-family: Baskerville ">
+        <div class="col-12" style="text-align: center;">
+            <h1>Random Number Facts from rapidapi.com</h1>
+            <br>
+            <form action={{url_for('numbersapi')}}>
+                <button>Refresh!</button>
+            </form>
+        </div>
+        <br>
+        <div class="jumbotron text-left row" style="font-family: Baskerville; font-size: larger">
+            <div class="col-md">
+                <p class="setup">{{numbers.text}}.{{numbers.number}}</p>
+            </div>
+        </div>
+
+    </div>
+    <table style="margin: 2%">
+        <tr>
+            <th>JSON Data</th>
+        </tr>
+        <tr>
+            <td>{{numbers}}</td>
+        </tr>
+    </table>
+</div>

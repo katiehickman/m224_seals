@@ -14,13 +14,25 @@
         <br>
         <div class="jumbotron text-left row" style="font-family: Baskerville; font-size: larger">
             <div class="col-md">
-                <p class="setup">{{numbers.text}}.{{numbers.number}}</p>
+                <p class="setup">{{numbers.text}}</p>
             </div>
         </div>
 
     </div>
     <table style="margin: 2%">
         <tr>
+            <p style="font-family: Baskerville; font-size: larger" id="answer" onclick="myFunction()">reveal answer</p>
+
+            <script>
+                function myFunction() {
+                    document.getElementById("answer").innerHTML = "{{numbers.number}}";
+                }
+            </script>
+        </tr>
+        <tr>
+            <br>
+            <br>
+            <br>
             <th>JSON Data</th>
         </tr>
         <tr>

@@ -28,22 +28,25 @@
 </h2>
 <body>
 <textarea id="textId" id="password">(password)</textarea>
-<button id="copyBtn">Copy</button>
+<br>
+<button id="copyBtn">Copy Password to Computer!</button>
 <script>
       document.getElementById("copyBtn")
         .onclick = function() {
           let text = document.getElementById("textId").value;
           navigator.clipboard.writeText(text)
             .then(() => {
-              alert('Text copied to clipboard');
+              alert('Password copied to clipboard');
             })
             .catch(err => {
               alert('Error in copying text: ', err);
             });
         }
     </script>
+<br>
+<br>
+<br>
 </body>
-
 
 <div class="container-fluid">
     <div class="row">
@@ -78,7 +81,6 @@
     <p style="font-family: Baskerville; font-size: x-large; text-align: center;">
         <br>
         <br>
-        <img src=static/design/curvy.png width="350" height="350" align="left" style="margin-right: 0px">
 
         </style>
 

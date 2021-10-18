@@ -33,10 +33,26 @@
             <br>
             <br>
             <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
             <th>JSON Data</th>
         </tr>
         <tr>
-            <td>{{numbers}}</td>
+            <td>
+            <p style="font-family: Baskerville; font-size: larger" id="jsondata" onclick="myF()">reveal JSON</p>
+
+            <script>
+                function myF() {
+                    document.getElementById("jsondata").innerHTML = "{{numbers}}";
+                }
+            </script>
+            </td>
         </tr>
     </table>
 </div>

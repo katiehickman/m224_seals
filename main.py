@@ -86,7 +86,7 @@ def greetkian():
 def numbersapi():
     url = "https://numbersapi.p.rapidapi.com/random/trivia"
 
-    querystring = {"min":"1","max":"50","fragment":"true","json":"true"}
+    querystring = {"min":"1","max":"100","fragment":"true","json":"true"}
 
     headers = {
         'x-rapidapi-host': "numbersapi.p.rapidapi.com",

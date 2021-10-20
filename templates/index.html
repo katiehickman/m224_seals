@@ -1,104 +1,198 @@
+
+<!DOCTYPE html>
 <body>
+<html>
 {% include "layouts/navbar.html" %}
 
 
-<!DOCTYPE html>
-<html>
 <head>
+<!-- style of the box :) -->
+<style>
+    * {
+        box-sizing: border-box;
+    }
 
+    p {
+        margin: 5px 0;
+    }
 
-<title>Random Password Generator</title>
-</body>
+    input[type=checkbox] {
+        margin-right: 0;
+    }
+
+    .container {
+        background-color: #F8CBC3;
+        box-shadow: 200px 200px 200px rgba(255, 255, 255, 0.2);
+        padding: 30px;
+        width: 400px;
+        max-width: 100%;
+    }
+
+    textarea {
+        background-color: rgba(0, 0, 0, 0.4);
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        position: relative;
+        font-size: 18px;
+        letter-spacing: 1px;
+        padding: 12px 10px;
+        height: 50px;
+        width: 100%;
+        word-wrap: break-word;
+    }
+
+    .btn {
+        border: none;
+        color: #fff;
+        cursor: pointer;
+        font-size: 16px;
+        padding: 8px 12px;
+        background-color: #DE978A;
+    }
+
+    .btn-large {
+        display: block;
+        width: 100%;
+    }
+
+    .setting {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 15px 0;
+    }
+
+</style>
+    <title>Random Password Generator</title>
+</head>
+
+<body>
+    <br>
+    <br>
+    <br>
     <br>
     <br>
     <img src=static/design/lock.png width="80" height="80" align="left" style="margin-left: 300px">
     <img src=static/design/lock.png width="80" height="80" align="right" style="margin-right: 300px">
-<p style="font-size: xxx-large; text-align: center;"> Random Password Generator</p>
+<h1 style="font-size: xxx-large; text-align: center;"> Random Password Generator</h1>
 <br>
 <br>
-<br>
-<br>
-
-
-<h2 class="text" style="font-size: x-large; font-family: Baskerville">Generated Password:
+<div class="container">
+    <p style="font-family: Baskerville; font-size: xx-large; text-align: center">Generated Password</p>
     <script>
-    var password = ;
-    document.write(password);
-</script>
-</h2>
-<body>
-<textarea id="textId" id="password">(password)</textarea>
-<br>
-<button id="copyBtn">Copy Password to Computer!</button>
-<script>
-      document.getElementById("copyBtn")
-        .onclick = function() {
-          let text = document.getElementById("textId").value;
-          navigator.clipboard.writeText(text)
-            .then(() => {
-              alert('Password copied to clipboard');
-            })
-            .catch(err => {
-              alert('Error in copying text: ', err);
-            });
+            var password = ;
+            document.write(password);
+    </script>
+    </script>
+    <div>
+        <textarea id="result"></textarea>
+        <button style="background-color: peachpuff; text-align: center" id="copyBtn"><img src=static/design/clipboard.png width="30" height="40"></button>
+    <script>
+        document.getElementById("copyBtn")
+            .onclick = function() {
+            let text = document.getElementById("result").value;
+            navigator.clipboard.writeText(text)
+                .then(() => {
+                    alert('Password copied to clipboard');
+                })
+                .catch(err => {
+                    alert('Error in copying text: ', err);
+                });
         }
     </script>
 
-<br>
-<br>
-<br>
-</body>
-<img src=static/design/curvy.png width="350" height="350" align="right" style="margin-right: 0px">
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-3">
-            <h2 class="text" style="font-size: x-large; font-family: Baskerville">Requirements</h2>
-            <form name="form" method="POST">
-                <label>
-                    <span style="font-size: larger; font-family: Baskerville">Special Characters</span>
-                    <input type="checkbox" name="a" class="inline checkbox" id="checkbox1" value="1">
-                </label>
-                <br>
-                <label>
-                    <span style="font-size: larger; font-family: Baskerville">Numbers</span>
-                    <input type="checkbox" name="b" class="incline checkbox" id="checkbox2" value="1">
-                </label>
-                <br>
-                <label>
-                    <span style="font-size: larger; font-family: Baskerville">Capital Letters</span>
-                    <input type="checkbox" name="c" class="incline checkbox" id="checkbox3" value="1">
-                </label>
-                <br>
-                <form action="/index/" id="length" method="POST" >
-                    <label for="length" style="font-family: Baskerville; font-size: larger">Enter Length</label>
-                    <input name="length">
-                </form>
-
-                <input type="button" style="font-family: Baskerville; font-size: larger" onclick="myFunction()" value="Submit">
-            </form>
+    </div>
+    <div class="settings">
+        <div class="setting">
+            <label style="font-size: larger; font-family: Baskerville">Length</label>
+            <input type="number" id="length" min='4' max='20' value='20' />
         </div>
+        <div class="setting">
+            <label style="font-size: larger; font-family: Baskerville">Capital Letters</label>
+            <input type="checkbox" id="uppercase" checked />
+        </div>
+        <div class="setting">
+            <label style="font-size: larger; font-family: Baskerville">Lowercase Letters</label>
+            <input type="checkbox" id="lowercase" checked />
+        </div>
+        <div class="setting">
+            <label style="font-size: larger; font-family: Baskerville">Numbers</label>
+            <input type="checkbox" id="numbers" checked />
+        </div>
+        <div class="setting">
+            <label style="font-size: larger; font-family: Baskerville">Special Characters</label>
+            <input type="checkbox" id="symbols" checked />
+        </div>
+    </div>
+    <button class="btn btn-large" id="generate">
+        Submit!
+    </button>
+</div>
 
 
-    <p style="font-family: Baskerville; font-size: x-large; text-align: center;">
-        <br>
-        <br>
-        </style>
+<script>
+    const resultEl = document.getElementById('result');
+    const lengthEl = document.getElementById('length');
+    const lowercaseEl = document.getElementById('lowercase');
+    const generateEl = document.getElementById('generate');
+
+    const randomFunc = {
+        lower: getRandomLower,
+    }
+
+    generate.addEventListener('click', () => {
+        const length = +lengthEl.value;
+        const hasLower = lowercaseEl.checked;
+
+        resultEl.innerText = generatePassword(hasLower, length);
+    });
+
+    function generatePassword(lower, length) {
+        let generatedPassword = '';
+        const typesCount = lower;
+        const typesArr = [{lower}].filter(item => Object.values(item)[0]);
+
+        if(typesCount === 0) {
+            return '';
+        }
+
+        for(let i=0; i<length; i+=typesCount) {
+            typesArr.forEach(type => {
+                const funcName = Object.keys(type)[0];
+                generatedPassword += randomFunc[funcName]();
+            });
+        }
+        const finalPassword = generatedPassword.slice(0, length);
+        return finalPassword;
+    }
+
+    function getRandomLower() {
+        return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
+    }
 
 
-        </html>
+</script>
 
-     <script>
-         function myFunction(){
-             const a = document.getElementById("checkbox1")
-             const b = document.getElementById("checkbox2")
-             const c = document.getElementById("checkbox3")
-             if (a.checked && b.checked && c.checked){ //all
-                 document.getElementById("all").innerHTML = "";
-             }
-             else { //and
-                 document.getElementById("all").innerHTML = "";
-             }
-         }
+    {% block background %}
+    <script src="{{ url_for('static', filename='three.r119.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='vanta.fog.min.js') }}"></script>
+    <script>
+        VANTA.FOG({
+            el: "body",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 850.00,
+            minWidth: 200.00,
+            highlightColor: 0xffffff,
+            midtoneColor: 0xffffff,
+            lowlightColor: 0xfaaaaa,
+            baseColor: 0xfcd5ba,
+            speed: 5.00,
+            zoom: 0.80
+        })
+    </script>
+    {% endblock %}
 
-     </script>
-        </head>
+</body>

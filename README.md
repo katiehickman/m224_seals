@@ -81,7 +81,7 @@ Our website is a random password generator that will have specific customization
 
 <br>
 
-## Week 9 (Individual Video Part One): Due 10/22
+## Week 9 (Sprint 9,10 Week 9): Due 10/22
 | Requirement | Ticket |
 | ---         | ---    |
 | Individual Final Videos | Videos, Scrum Team Comments, and Scores |

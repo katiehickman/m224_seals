@@ -69,6 +69,7 @@ Our website is a random password generator that will have specific customization
 <br>
 
 ## Table of Contents
+- <a href="https://github.com/katiehickman/m224_seals#week-9-sprint-910-week-9-due-1022">Week 9</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-8-sprint-78-week-8-due-1018">Week 8</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-7-sprint-78-week-7-due-1012">Week 7</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-6-sprint-56-week-6-due-101">Week 6</a>
@@ -79,6 +80,13 @@ Our website is a random password generator that will have specific customization
 - <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 1</a>
 
 <br>
+
+## Week 9 (Sprint 9,10 Week 9): Due 10/22
+| Requirement | Ticket |
+| ---         | ---    |
+| Individual Final Videos | <a href="https://github.com/katiehickman/m224_seals/issues/9">Videos, Scrum Team Comments, and Scores</a>|
+<br>
+
 
 ## Week 8 (Sprint 7,8 Week 8): Due 10/18
 | Name | Requirement | Evidence | Grade |

@@ -84,7 +84,8 @@ Our website is a random password generator that will have specific customization
 ## Week 9 (Sprint 9,10 Week 9): Due 10/22
 | Requirement | Ticket |
 | ---         | ---    |
-| Individual Final Videos | Videos, Scrum Team Comments, and Scores |
+| Individual Final Videos | <a href="https://github.com/katiehickman/m224_seals/issues/9">Videos, Scrum Team Comments, and Scores</a>|
+<br>
 
 
 ## Week 8 (Sprint 7,8 Week 8): Due 10/18

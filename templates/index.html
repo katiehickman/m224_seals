@@ -29,7 +29,7 @@
     }
 
     textarea {
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(0, 0, 0, 0.2);
         display: flex;
         justify-content: flex-start;
         align-items: center;
@@ -75,11 +75,11 @@
     <br>
     <img src=static/design/lock.png width="80" height="80" align="left" style="margin-left: 300px">
     <img src=static/design/lock.png width="80" height="80" align="right" style="margin-right: 300px">
-<h1 style="font-size: xxx-large; text-align: center;"> Random Password Generator</h1>
+<h1 style="font-size: xxx-large; text-align: center; font-family: Baskerville"> Random Password Generator</h1>
 <br>
 <br>
 <div class="container">
-    <p style="font-family: Baskerville; font-size: xx-large; text-align: center">Generated Password</p>
+    <p style="font-family: Baskerville; font-size: x-large; text-align: center">Generated Password</p>
     <script>
             var password = ;
             document.write(password);
@@ -106,11 +106,11 @@
     <div class="settings">
         <div class="setting">
             <label style="font-size: larger; font-family: Baskerville">Length</label>
-            <input type="number" id="length" min='4' max='20' value='20' />
+            <input type="number" id="length" min="4" max="20" value="20" />
         </div>
         <div class="setting">
             <label style="font-size: larger; font-family: Baskerville">Capital Letters</label>
-            <input type="checkbox" id="uppercase" checked />
+            <input type="checkbox" id="capital" checked />
         </div>
         <div class="setting">
             <label style="font-size: larger; font-family: Baskerville">Lowercase Letters</label>
@@ -136,22 +136,31 @@
     const lengthEl = document.getElementById('length');
     const lowercaseEl = document.getElementById('lowercase');
     const generateEl = document.getElementById('generate');
+    const capitalEl = document.getElementById('capital');
+    const symbolsEl = document.getElementById('symbols')
+    const numbersEl = document.getElementById('numbers')
 
     const randomFunc = {
         lower: getRandomLower,
+        capital: getRandomCapital,
+        numbers: getRandomNumbers,
+        symbols: getRandomSymbols,
     }
 
     generate.addEventListener('click', () => {
         const length = +lengthEl.value;
         const hasLower = lowercaseEl.checked;
+        const hasCapital = capitalEl.checked;
+        const hasNumbers = numbersEl.checked;
+        const hasSymbols = symbolsEl.checked;
 
-        resultEl.innerText = generatePassword(hasLower, length);
+        resultEl.innerText = generatePassword(hasLower, length, hasCapital, hasNumbers, hasSymbols );
     });
 
-    function generatePassword(lower, length) {
+    function generatePassword(lower, length, capital, numbers, symbols) {
         let generatedPassword = '';
-        const typesCount = lower;
-        const typesArr = [{lower}].filter(item => Object.values(item)[0]);
+        const typesCount = lower + capital + numbers + symbols;
+        const typesArr = [{lower}, {capital}, {numbers}, {symbols}].filter(item => Object.values(item)[0]);
 
         if(typesCount === 0) {
             return '';
@@ -170,8 +179,16 @@
     function getRandomLower() {
         return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
     }
-
-
+    function getRandomCapital() {
+        return String.fromCharCode(Math.floor(Math.random() * 26) + 65);
+    }
+    function getRandomNumbers() {
+        return +String.fromCharCode(Math.floor(Math.random() * 10) + 48);
+    }
+    function getRandomSymbols() {
+        const symbols = '!@#$%^&*(){}[]=<>/,.'
+        return symbols[Math.floor(Math.random() * symbols.length)];
+    }
 </script>
 
     {% block background %}

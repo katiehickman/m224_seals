@@ -69,7 +69,7 @@ Our website is a random password generator that will have specific customization
 <br>
 
 ## Table of Contents
-- <a href="https://github.com/katiehickman/m224_seals#week-9-individual-video-part-one-week-9-due-1022">Week 9</a>
+- <a href="https://github.com/katiehickman/m224_seals#week-9-sprint-910-week-9-due-1022">Week 9</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-8-sprint-78-week-8-due-1018">Week 8</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-7-sprint-78-week-7-due-1012">Week 7</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-6-sprint-56-week-6-due-101">Week 6</a>

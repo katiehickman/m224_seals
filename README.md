@@ -89,12 +89,19 @@ Our website is a random password generator that will have specific customization
 
 
 ## Week 8 (Sprint 7,8 Week 8): Due 10/18
-| Name | Requirement | Evidence | Grade |
-| ---  | ---         | ---      | ---   |
-| Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/2">Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Derek Bokelman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/1">Ticket</a> | -/5<br>-/0.25<br>-/3|
-| Kian Pasokhi | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/1">Ticket</a> | -/5<br>-/0.25<br>-/3|
+<br>
+<a href="https://github.com/katiehickman/m224_seals/issues/6">Review Ticket/Feedback for Presentation</a>
+<br>
+<br>
+
+| Name | Requirement | Evidence | Grade | Total Socre |
+| ---  | ---         | ---      | ---   | --- |
+| Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/2">Ticket</a> | 4.5/5<br>0.25/0.25<br>3/3| 7.75/8
+| Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | 4.5/5<br>0.25/0.25<br>3/3|7.75/8
+| Derek Bokelman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/1">Ticket</a> | 4.5/5<br>0.25/0.25<br>3/3|7.75/8
+| Kian Pasokhi | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/1">Ticket</a> | 4.5/5<br>0.25/0.25<br>3/3|7.75/8
+
+<br>
 
 ## Week 7 (Sprint 7,8 Week 7): Due 10/12
 ### Runtime Video

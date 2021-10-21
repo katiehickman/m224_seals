@@ -1,27 +1,47 @@
 <!DOCTYPE html>
 {% include "layouts/navbar.html" %}
-
+<body>
+<html>
 <title>Numbers Api</title>
+<style>
+    .button1 {
+        background-color: white;
+        color: grey;
+        border: 3px solid #F5B7B1;
+        padding: 15px 32px;
+        margin: 4px 2px;
+        font-size: larger;
+        text-align: center;
+        text-decoration: none;
+    }
+
+    .button1:hover {
+        background-color: #F5B7B1;
+        color: black;
+    }
+</style>
 <div class="container">
-    <div class="center-block" style="margin: 2% 5% 5%;font-family: Baskerville ">
+    <div class="center-block" style="margin: 2% 5% 5%;">
         <div class="col-12" style="text-align: center;">
-            <h1>Random Number Facts from rapidapi.com</h1>
             <br>
-            <form action={{url_for('numbersapi')}}>
-                <button>Refresh!</button>
-            </form>
+            <p style="color: whitesmoke; font-size: xxx-large; font-family: Baskerville">Random Number Facts from rapidapi.com</p>
+            <br>
+                <a href="{{url_for('numbersapi')}}" class="button1">Refresh!</a>
         </div>
         <br>
-        <div class="jumbotron text-left row" style="font-family: Baskerville; font-size: larger">
+        <br>
+        <br>
+        <div class="jumbotron text-left row">
             <div class="col-md">
-                <p class="setup">{{numbers.text}}</p>
+                <p class="setup" style="color: whitesmoke; font-size: x-large; text-align: center"><strong>{{numbers.text}}</strong></p>
             </div>
         </div>
 
     </div>
+
     <table style="margin: 2%">
         <tr>
-            <p style="font-family: Baskerville; font-size: larger" id="answer" onclick="myFunction()">reveal answer</p>
+            <p style="color: whitesmoke; font-size: xx-large; font-family: Baskerville; text-align: center" id="answer" onclick="myFunction()">reveal answer</p>
 
             <script>
                 function myFunction() {
@@ -36,16 +56,13 @@
             <br>
             <br>
             <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <th>JSON Data</th>
+            <th>
+                <p style="font-family: Baskerville; color: whitesmoke; font-size: x-large">JSON Data</p>
+            </th>
         </tr>
         <tr>
             <td>
-            <p style="font-family: Baskerville; font-size: larger" id="jsondata" onclick="myF()">reveal JSON</p>
+            <p style="font-family: Baskerville; color: whitesmoke; font-size: x-large" id="jsondata" onclick="myF()">reveal JSON</p>
 
             <script>
                 function myF() {
@@ -56,3 +73,25 @@
         </tr>
     </table>
 </div>
+{% block background %}
+<script src="{{ url_for('static', filename='three.r119.min.js') }}"></script>
+<script src="{{ url_for('static', filename='vanta.net.min.js') }}"></script>
+<script>
+    VANTA.NET({
+        el: "body",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 850.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color: 0xf79797,
+        backgroundColor: 0x786d6e,
+        maxDistance: 18.00,
+        spacing: 17.00
+    })
+</script>
+{% endblock %}
+</html>
+</body>

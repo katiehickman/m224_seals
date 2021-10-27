@@ -33,12 +33,12 @@
         display: flex;
         justify-content: flex-start;
         align-items: center;
-        position: relative;
+        position: absolute;
         font-size: 18px;
         letter-spacing: 1px;
         padding: 12px 10px;
         height: 50px;
-        width: 100%;
+        width: 85%;
         word-wrap: break-word;
     }
 
@@ -61,6 +61,11 @@
         justify-content: space-between;
         align-items: center;
         margin: 15px 0;
+    }
+    .button {
+        position: relative;
+        margin-left: 83%;
+
     }
 
 </style>
@@ -86,8 +91,8 @@
     </script>
     </script>
     <div>
-        <textarea id="result"></textarea>
-        <button style="background-color: peachpuff; text-align: center" id="copyBtn"><img src=static/design/clipboard.png width="30" height="40"></button>
+        <textarea id="result" style="float: left"></textarea>
+        <button class="button" style="background-color: peachpuff; text-align: center" id="copyBtn"><img src=static/design/clipboard.png width="30" height="40"></button>
     <script>
         document.getElementById("copyBtn")
             .onclick = function() {
@@ -101,7 +106,8 @@
                 });
         }
     </script>
-
+<br>
+        <br>
     </div>
     <div class="settings">
         <div class="setting">

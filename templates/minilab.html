@@ -1,16 +1,13 @@
-
-<body>
 {% include "layouts/navbar.html" %}
 
-<!DOCTYPE html>
-<body style="background-color: #FCEEED;">
 <title>Website Process</title>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         table, th, td {
-            border: 2px solid black; background-color: whitesmoke;
+            border: 2px solid black;
+            background-color: whitesmoke;
         }
         table.center {
             margin-left: auto;
@@ -44,26 +41,89 @@
             background-color: #F5B7B1;
             color: black;
         }
+
+        :root{
+            --bg:#FCEEED;
+        }
+
+        body{
+            background-color: var(--bg); <!-- custom properties -->
+        }
+
+        .color-picker{
+            display: inline-flex;
+            justify-content: center;
+            align-items: center;
+            background-color: whitesmoke;
+            border: 2px solid black;
+            padding: 25px 25px;
+
+        }
+
+        .pick-text{
+            font-size: 17px;
+            color: black;
+            font-weight: 600;
+            padding: 0px 8px;
+            text-align: center;
+            font-family: Baskerville;
+
+        }
+
+        .picker{
+            width: 50px;
+            height: 50px;
+            border-radius: 100%;
+            border: 1px solid black;
+            overflow: hidden;
+            position: relative;
+
+        }
+
+        .input-color{
+            width: 75px;
+            height: 75px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            cursor: grabbing;
+        }
+
+        .color-code{
+            width: 100px;
+            padding: 10px;
+            font-family: Baskerville;
+
+        }
     </style>
 </head>
 
 <body>
 <br>
 <p style="font-size: xx-large; text-align: center; font-family: Baskerville">Mini Labs</p>
+<!-- table for color picker -->
+<div class="color-picker" style="float:left; margin-left: 2%"> <!-- color picker -->
+    <div class="pick-text">Choose<br>Your<br>Background<br>Color!</div> <!-- sample text -->
+        <div class="picker"> <!-- input -->
+            <input type="color" id="yourcolor" class="input-color" value="#FCEEED"> <!-- default color -->
+        </div>
+        <div class="color-code" id="colorcode">#FCEEED</div> <!-- color code -->
+    </div>
+</div>
 
-<table class="center">
+
+
+<table class="center" style="float: left; margin-left: 5%">
     <tr>
-        <td><!DOCTYPE html>
-            <html>
-            <body>
+        <td>
             <br>
             <p style ="text-align: center; font-size: larger; font-family: Baskerville"> Video/Journal 0</p>
             <p style="text-align: center"> <iframe src="https://drive.google.com/file/d/19WDB1PnMOq3koAoe01qFVNEmUDhe5GWd/preview" width="320" height="240"></iframe></p>
             <br>
-            </body>
-            </html>
         </td>
-        <td><p style="text-align: center; font-size: larger; font-family: Baskerville">
+        <td>
+            <p style="text-align: center; font-size: larger; font-family: Baskerville">
             <a href="/binary/" class="button1">Binary Math </a>
         </p>
         </td>
@@ -88,19 +148,14 @@
         <p style="text-align: center; font-family: Baskerville;">
             <a href="https://docs.google.com/document/d/1hoCnPIoqw_S8fzOwak1UgzfXW5Lh2uCcz2JvHZM8MYE/edit?usp=sharing" class="button2">Shreya and Katie's Pair Share Journal</a>
             <br>
-            <br>
             <a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit?usp=sharing" class="button2">Derek and Kian's Pair Share Journal</a>
-            <br>
             <br>
             <br>
             <a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit?usp=sharing" class="button2">Katie's Individual Journal</a>
             <br>
-            <br>
             <a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit?usp=sharing" class="button2">Shreya's Individual Journal</a>
             <br>
-            <br>
             <a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit?usp=sharing" class="button2">Kian's Individual Journal</a>
-            <br>
             <br>
             <a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit?usp=sharing" class="button2">Derek's Individual Journal</a>
             <br>
@@ -135,9 +190,8 @@
         </td>
     </tr>
 
-
-
 </table>
+
 
 </body>
 </html>

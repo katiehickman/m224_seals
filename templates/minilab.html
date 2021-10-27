@@ -112,7 +112,16 @@
     </div>
 </div>
 
+<!-- javascript for color picker -->
+<script>
+    var inputcolor = document.getElementById("yourcolor"); <!-- input value set here -->
+    var root = document.documentElement; <!-- returns an element which is the root element of the document -->
 
+    inputcolor.addEventListener("input",(e) => {
+        document.getElementById("colorcode").innerHTML = e.target.value;
+        root.style.setProperty("--bg",e.target.value);
+    });
+</script>
 
 <table class="center" style="float: left; margin-left: 5%">
     <tr>

@@ -154,10 +154,10 @@
         const hasNumbers = numbersEl.checked;
         const hasSymbols = symbolsEl.checked;
 
-        resultEl.innerText = generatePassword(hasLower, length, hasCapital, hasNumbers, hasSymbols );
+        resultEl.innerText = generatePassword(length, hasLower, hasCapital, hasNumbers, hasSymbols );
     });
 
-    function generatePassword(lower, length, capital, numbers, symbols) {
+    function generatePassword(length, lower, capital, numbers, symbols) {
         let generatedPassword = '';
         const typesCount = lower + capital + numbers + symbols;
         const typesArr = [{lower}, {capital}, {numbers}, {symbols}].filter(item => Object.values(item)[0]);

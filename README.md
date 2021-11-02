@@ -79,6 +79,16 @@ Our website is a random password generator that will have specific customization
 - <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 2</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 1</a>
 
+
+## Week 10/11 (Sprint 9,10 Week 9 Part 2 and Draft N@tM Final for Tri 1): Due 11/4
+
+
+| Name | Requirement | Evidence | Grade |
+| ---  | ---         | ---      | ---   |
+| Katie Hickman | Styling of Homepage and Backgrounds | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
+| Shreya Ahuja | Checkboxes for Password and Team Logo | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
+| Derek Bokelman | - | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
+| Kian Pasokhi | - | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
 <br>
 
 ## Week 9 (Sprint 9,10 Week 9): Due 10/22
@@ -94,7 +104,7 @@ Our website is a random password generator that will have specific customization
 <br>
 <br>
 
-| Name | Requirement | Evidence | Grade | Total Socre |
+| Name | Requirement | Evidence | Grade | Total Score |
 | ---  | ---         | ---      | ---   | --- |
 | Katie Hickman | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/2">Ticket</a> | 4.5/5<br>0.25/0.25<br>3/3| 7.75/8
 | Shreya Ahuja | PBL Requirements<br>Extra Credit<br> Units 3.7 and 3.8 |<a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/5">Ticket</a><br><a href="https://github.com/katiehickman/flask_portfolio/issues/64">Ticket</a> | 4.5/5<br>0.25/0.25<br>3/3|7.75/8

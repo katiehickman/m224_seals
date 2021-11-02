@@ -85,10 +85,10 @@ Our website is a random password generator that will have specific customization
 
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |
-| Katie Hickman | Styling of Homepage/Backgrounds and Random Numbers API | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
-| Shreya Ahuja | Checkboxes for Password and Team Logo | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
+| Katie Hickman | Styling of Homepage/Backgrounds<br>Random Numbers API | <a href="https://github.com/katiehickman/m224_seals/issues/10">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/7">Ticket</a> |-|
+| Shreya Ahuja | Checkboxes for Password<br>Team Logo | <a href="https://github.com/katiehickman/m224_seals/issues/8">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
 | Derek Bokelman | - | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
-| Kian Pasokhi | Copy button  | <a href="https://github.com/katiehickman/m224_seals/issues/">Ticket</a> |-|
+| Kian Pasokhi | Copy button  | <a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a> |-|
 <br>
 
 ## Week 9 (Sprint 9,10 Week 9): Due 10/22

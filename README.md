@@ -82,7 +82,7 @@ Our website is a random password generator that will have specific customization
 
 ## Week 10/11 (Sprint 9,10 Week 9 Part 2 and Draft N@tM Final for Tri 1): Due 11/4
 
-<a href="">Presentation</a>
+<a href="https://www.canva.com/design/DAEuC5tuScA/zs8LA3OlXjeXFX_9yvygWw/view?utm_content=DAEuC5tuScA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">Presentation</a>
 
 | Name | Requirement | Evidence | Grade |
 | ---  | ---         | ---      | ---   |

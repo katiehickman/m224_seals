@@ -89,7 +89,7 @@ Our website is a random password generator that will have specific customization
 | ---  | ---         | ---      | ---   |
 | Katie Hickman | Styling of Backgrounds and  Minilab Color Picker<br>Random Numbers API<br>| <a href="https://github.com/katiehickman/m224_seals/issues/10">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/7">Ticket</a> |-|
 | Shreya Ahuja | Checkboxes for Password<br>Team Logo | <a href="https://github.com/katiehickman/m224_seals/issues/8">Ticket</a><br><a href="https://github.com/katiehickman/m224_seals/issues/18">Ticket</a> |-|
-| Derek Bokelman | Password strength Tester | <a href="https://github.com/katiehickman/m224_seals/issues/19">Ticket</a> |-|
+| Derek Bokelman | Password Strength Tester | <a href="https://github.com/katiehickman/m224_seals/issues/19">Ticket</a> |-|
 | Kian Pasokhi | Copy button  | <a href="https://github.com/katiehickman/m224_seals/issues/3">Ticket</a> |-|
 <br>
 

@@ -80,7 +80,7 @@ Our website is a random password generator that will have specific customization
 - <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 2</a>
 - <a href="https://github.com/katiehickman/m224_seals#week-four-sprint-34-week-3-due-917">Week 1</a>
 
-## Week 10/11 (Sprint 9,10 Week 9 Part 2 and Draft N@tM Final for Tri 1): Due 11/12
+## Week 12 (N@tM Presentation and Walk abouts): Due 11/12
 
 
 https://user-images.githubusercontent.com/89223621/141524242-b97b334f-e470-4cb2-b350-0417c6b2870f.MOV

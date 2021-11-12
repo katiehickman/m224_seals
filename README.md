@@ -64,6 +64,13 @@ Our website is a random password generator that will have specific customization
     <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
     <td><a href="https://docs.google.com/document/d/1OF2ajxJpZN6pmk_ZbCaYONdsyaA6ZTTaSBYQZPTU_hU/edit">Kian and Dereks's Pair Share Journal</a></td>
    <tr>
+     <tr>
+    <td>Individual Journals</td>
+    <td><a href="https://docs.google.com/document/d/1bkb4K8_BpPpdgEJbd8sKS7tNYzWs9l8TRb1jCQp-b6E/edit">Katie's Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1GZnZQ1bMF-E2LbMpNz1TCTH6RtgcUnwrp2HBJBWExn4/edit">Shreya's Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1nCciFbTWDx4b9ewqAq_aPK1M1-77CL6qRq2KNFiOdIw/edit">Derek's Journal</a></td>
+    <td><a href="https://docs.google.com/document/d/1JReFWl44gAUDLAJ0TxJCbq8_xk76eaNgla7rFtdG5NQ/edit">Kian's Journal</a></td>
+   <tr> 
 </table>
 
 <br>

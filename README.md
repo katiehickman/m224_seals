@@ -14,6 +14,8 @@
 
 Our website is a random password generator that will have specific customization features. These features include Special Characters, Length, Lowercase Letters, Capital Letters, and Numbers. You can choose which requirements are needed for your password, and the website will give a unique password that is secure and there will also be a button that will allow you to copy the password to your desktop. The strength of your password will also be evaluated! This is really important in todays world because we are using our computer much more and we need to have secure passwords so our information stays safe.
 
+![image](https://user-images.githubusercontent.com/89223621/141526975-3fe2b864-2547-4dae-85b7-ea22745ad40d.png)
+
 <br>
 <table>
   <tr>
